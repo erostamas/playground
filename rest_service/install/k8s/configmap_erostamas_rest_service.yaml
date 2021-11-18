@@ -6,5 +6,5 @@ metadata:
 data:
   config.json: |
     {
-      "the_number": 53
+      "the_number": 64
     }

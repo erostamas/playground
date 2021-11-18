@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: erostamas-rest-service-demo
+  #namespace: default
+spec:
+  serviceName: erostamas-rest-service-service
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: erostamas-rest-service
+  template:
+    metadata:
+      labels:
+        app: erostamas-rest-service
+    spec:
+      nodeSelector:
+        kubernetes.io/hostname: wilson
+      containers:
+      - name: erostamas-rest-service-container
+        image: erostamas/playground_rest_service_main:latest
+        volumeMounts:
+        - name: service-config-path
+          mountPath: "/my_files/"
+          readOnly: True
+        ports:
+        - protocol: TCP
+          containerPort: 5000
+      volumes:
+      - name: service-config-path
+        configMap:
+          name: erostamas-rest-service-config

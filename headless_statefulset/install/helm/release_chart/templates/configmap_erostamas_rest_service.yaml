@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: erostamas-rest-service-config
+data:
+  config.json: |
+    {
+      {{- if eq (.Values.replicaCount) 1.0 }}
+      "the_number": {{ .Values.value }}
+      {{ else }}
+      "the_number": 12
+      {{ end }}
+    }
