@@ -1,0 +1,6 @@
+apiVersion: "erostamas.crd/v1"
+kind: Band
+metadata:
+  name: my-own-band
+spec:
+  my-replica-count: 4

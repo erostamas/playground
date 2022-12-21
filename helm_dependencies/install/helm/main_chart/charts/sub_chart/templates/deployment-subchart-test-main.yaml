@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: erostamas-subchart-test-sub-deployment-name
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: erostamas-subchart-test-sub-app-name
+  template:
+    metadata:
+      labels:
+        app: erostamas-subchart-test-sub-app-name
+    spec:
+      nodeSelector:
+        kubernetes.io/hostname: wilson
+      containers:
+      - name: erostamas-subchart-test-sub-container-name
+        image: erostamas/subchart_test:latest
+        command: ["python3", "-u", "/opt/erostamas/subchart_test/main.py"]
+        volumeMounts:
+        - name: config-path
+          mountPath: "/opt/erostamas/subchart-test/"
+          readOnly: True
+      volumes:
+      - name: config-path
+        configMap:
+          name: erostamas-subchart-test-sub-config

@@ -1,0 +1,22 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod
+spec:
+  volumes:
+    - name: pv-storage
+      persistentVolumeClaim:
+        claimName: pv-claim
+  containers:
+    - name: container
+      image: ubuntu
+      command:
+      - sleep
+      args:
+      {{ range untilStep 0 3 1 -}}
+      {{ printf "- eric-oss-correlator-node-%d\n" . }}
+      {{- end -}}
+      - infinity
+      volumeMounts:
+        - mountPath: "/hello/bello/"
+          name: pv-storage
