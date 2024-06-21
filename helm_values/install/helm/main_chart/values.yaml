@@ -1,0 +1,14 @@
+# Default values for release_chart.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+ok: true
+{{- if .Values.ok -}}
+alarming:
+  enabled: true
+  x: y
+{{ else }}
+alarming:
+  enabled: false
+  x: hello
+{{- end -}}

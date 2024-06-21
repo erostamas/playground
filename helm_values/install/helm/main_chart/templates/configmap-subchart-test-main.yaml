@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: erostamas-subchart-test-main-config
+data:
+  config.yaml: |
+    .Values.alarming
