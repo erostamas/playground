@@ -1,0 +1,4271 @@
+{
+    "Running": [
+        {
+            "activity": "Running",
+            "start_time": "2023/07/25, 08:01:58",
+            "end_time": "2023/07/25, 08:13:00",
+            "duration": 11.028933333333333,
+            "distance": 1197.2017117865391
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/25, 08:13:00",
+            "end_time": "2023/07/25, 08:13:10",
+            "duration": 0.1672652,
+            "distance": 17.205740106851607
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/25, 08:26:43",
+            "end_time": "2023/07/25, 08:48:47",
+            "duration": 22.06063333333333,
+            "distance": 3086.9481779431762
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/25, 08:48:47",
+            "end_time": "2023/07/25, 08:49:28",
+            "duration": 0.6908266166666667,
+            "distance": 61.032334079271884
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/27, 08:19:37",
+            "end_time": "2023/07/27, 08:30:16",
+            "duration": 10.655033333333334,
+            "distance": 1130.991943359375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/27, 08:36:06",
+            "end_time": "2023/07/27, 08:58:58",
+            "duration": 22.854333333333333,
+            "distance": 3213.400991962446
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/27, 08:58:58",
+            "end_time": "2023/07/27, 08:58:59",
+            "duration": 0.030500000000000003,
+            "distance": 2.6229157905707488
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/29, 07:28:17",
+            "end_time": "2023/07/29, 07:36:57",
+            "duration": 8.677933333333334,
+            "distance": 1302.7198578113632
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/29, 07:50:47",
+            "end_time": "2023/07/29, 08:14:45",
+            "duration": 23.958750000000002,
+            "distance": 3086.301159175026
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/31, 08:12:19",
+            "end_time": "2023/07/31, 08:20:16",
+            "duration": 7.953316666666667,
+            "distance": 1297.2209838366184
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/31, 08:20:16",
+            "end_time": "2023/07/31, 08:20:23",
+            "duration": 0.11598333333333333,
+            "distance": 8.32193598505597
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/31, 08:33:57",
+            "end_time": "2023/07/31, 08:54:55",
+            "duration": 20.96878333333333,
+            "distance": 3075.1120674009408
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/07/31, 08:54:55",
+            "end_time": "2023/07/31, 08:55:30",
+            "duration": 0.5706345833333334,
+            "distance": 51.24068006046172
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/14, 11:31:03",
+            "end_time": "2023/08/14, 12:08:08",
+            "duration": 37.090450000000004,
+            "distance": 4350.414877134439
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/14, 12:08:08",
+            "end_time": "2023/08/14, 12:08:39",
+            "duration": 0.51105,
+            "distance": 44.71952056171713
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/19, 07:11:16",
+            "end_time": "2023/08/19, 07:46:42",
+            "duration": 35.421866666666666,
+            "distance": 4523.380973650929
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/19, 07:46:42",
+            "end_time": "2023/08/19, 07:48:00",
+            "duration": 1.3025169666666665,
+            "distance": 130.58795570838726
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/22, 17:46:01",
+            "end_time": "2023/08/22, 17:46:13",
+            "duration": 0.19729999999999998,
+            "distance": 0.0
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/25, 07:23:37",
+            "end_time": "2023/08/25, 07:58:06",
+            "duration": 34.493399999999994,
+            "distance": 5142.881882822138
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/25, 07:58:06",
+            "end_time": "2023/08/25, 07:58:38",
+            "duration": 0.526,
+            "distance": 40.913217409644645
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/28, 07:42:33",
+            "end_time": "2023/08/28, 07:42:49",
+            "duration": 0.2682333333333334,
+            "distance": 16.117965282468788
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/28, 07:42:59",
+            "end_time": "2023/08/28, 07:51:09",
+            "duration": 8.1726,
+            "distance": 1177.183251127242
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/28, 07:58:47",
+            "end_time": "2023/08/28, 07:58:53",
+            "duration": 0.09935000000000001,
+            "distance": 3035.0708747962362
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/28, 07:58:53",
+            "end_time": "2023/08/28, 08:19:27",
+            "duration": 20.554583333333333,
+            "distance": 3018.681396553835
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/08/28, 08:19:27",
+            "end_time": "2023/08/28, 08:19:51",
+            "duration": 0.4094738,
+            "distance": 25.860815188283134
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/06, 11:12:07",
+            "end_time": "2023/09/06, 11:12:56",
+            "duration": 0.82615,
+            "distance": 5113.178998668291
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/06, 11:12:56",
+            "end_time": "2023/09/06, 11:45:05",
+            "duration": 32.152816666666666,
+            "distance": 5039.926865596569
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/06, 11:45:05",
+            "end_time": "2023/09/06, 11:46:36",
+            "duration": 1.50585,
+            "distance": 109.07743934780895
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/08, 11:10:50",
+            "end_time": "2023/09/08, 11:44:40",
+            "duration": 33.83428333333333,
+            "distance": 5019.772992287328
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/08, 11:44:40",
+            "end_time": "2023/09/08, 11:44:55",
+            "duration": 0.2504,
+            "distance": 217.56283797339353
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/17, 08:11:35",
+            "end_time": "2023/09/17, 08:42:06",
+            "duration": 30.500999999999998,
+            "distance": 4522.425893518176
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/17, 08:42:06",
+            "end_time": "2023/09/17, 08:42:22",
+            "duration": 0.27079121666666667,
+            "distance": 22.986236769952882
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/25, 17:12:53",
+            "end_time": "2023/09/25, 17:13:00",
+            "duration": 0.1272761,
+            "distance": 12.626559781233725
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/25, 17:13:00",
+            "end_time": "2023/09/25, 18:00:48",
+            "duration": 47.788916666666665,
+            "distance": 7064.0132785312335
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/26, 17:32:14",
+            "end_time": "2023/09/26, 17:32:30",
+            "duration": 0.25926666666666665,
+            "distance": 0.0
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/09/26, 17:32:43",
+            "end_time": "2023/09/26, 17:33:07",
+            "duration": 0.41085,
+            "distance": 0.0
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/10/29, 09:54:52",
+            "end_time": "2023/10/29, 10:25:25",
+            "duration": 30.545633333333335,
+            "distance": 5009.4638671875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/10/31, 07:46:49",
+            "end_time": "2023/10/31, 08:20:40",
+            "duration": 33.84025,
+            "distance": 5019.0458984375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/11/12, 23:17:25",
+            "end_time": "2023/11/12, 23:17:47",
+            "duration": 0.36748333333333333,
+            "distance": 13.678999900817871
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/11/15, 17:40:10",
+            "end_time": "2023/11/15, 17:40:28",
+            "duration": 0.30396666666666666,
+            "distance": 0.0
+        },
+        {
+            "activity": "Running",
+            "start_time": "2023/11/19, 04:30:45",
+            "end_time": "2023/11/19, 10:05:46",
+            "duration": 335.0110666666667,
+            "distance": 0.0
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/02/10, 13:17:49",
+            "end_time": "2024/02/10, 13:58:52",
+            "duration": 41.058416666666666,
+            "distance": 6015.4482421875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/02/27, 14:26:01",
+            "end_time": "2024/02/27, 15:08:48",
+            "duration": 42.792249999999996,
+            "distance": 6048.623046875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/02/28, 14:31:19",
+            "end_time": "2024/02/28, 15:14:59",
+            "duration": 43.670383333333334,
+            "distance": 5871.1162109375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/02/29, 11:08:06",
+            "end_time": "2024/02/29, 11:39:45",
+            "duration": 31.657766666666664,
+            "distance": 4151.98779296875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/04/07, 15:40:13",
+            "end_time": "2024/04/07, 16:11:49",
+            "duration": 31.599133333333334,
+            "distance": 5010.8310546875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/04/14, 16:00:49",
+            "end_time": "2024/04/14, 16:32:19",
+            "duration": 31.505983333333333,
+            "distance": 5021.8193359375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/04/15, 17:25:33",
+            "end_time": "2024/04/15, 17:55:35",
+            "duration": 30.040266666666664,
+            "distance": 5059.64306640625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/04/27, 08:54:21",
+            "end_time": "2024/04/27, 09:24:23",
+            "duration": 30.042366666666666,
+            "distance": 5423.3704244316905
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/04, 13:16:36",
+            "end_time": "2024/05/04, 13:54:16",
+            "duration": 37.66496666666667,
+            "distance": 5010.08984375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/05, 07:38:57",
+            "end_time": "2024/05/05, 08:16:33",
+            "duration": 37.59823333333333,
+            "distance": 5007.3828125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/11, 06:42:16",
+            "end_time": "2024/05/11, 07:24:07",
+            "duration": 41.83683333333333,
+            "distance": 5403.122375766322
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/11, 07:24:07",
+            "end_time": "2024/05/11, 07:24:08",
+            "duration": 0.019799999999999998,
+            "distance": 43.39930475722009
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/13, 16:40:06",
+            "end_time": "2024/05/13, 17:28:36",
+            "duration": 48.495916666666666,
+            "distance": 5458.68798828125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/14, 17:14:50",
+            "end_time": "2024/05/14, 18:03:02",
+            "duration": 48.2025,
+            "distance": 5756.858495351968
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/15, 06:32:08",
+            "end_time": "2024/05/15, 06:50:07",
+            "duration": 17.9902,
+            "distance": 1622.9835151298612
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/15, 06:50:07",
+            "end_time": "2024/05/15, 06:50:14",
+            "duration": 0.1165729,
+            "distance": 7.309564934548595
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/16, 16:29:28",
+            "end_time": "2024/05/16, 17:11:43",
+            "duration": 42.24205,
+            "distance": 5296.764894227912
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/18, 17:23:15",
+            "end_time": "2024/05/18, 17:51:23",
+            "duration": 28.133866666666666,
+            "distance": 5021.498046875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/21, 10:54:32",
+            "end_time": "2024/05/21, 11:35:46",
+            "duration": 41.22273333333333,
+            "distance": 5198.5078125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/23, 05:56:32",
+            "end_time": "2024/05/23, 06:37:34",
+            "duration": 41.035650000000004,
+            "distance": 5350.85498046875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/24, 06:12:55",
+            "end_time": "2024/05/24, 06:54:32",
+            "duration": 41.62173333333333,
+            "distance": 5281.046875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/25, 06:36:50",
+            "end_time": "2024/05/25, 07:15:57",
+            "duration": 39.12661666666667,
+            "distance": 5039.69580078125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/28, 07:57:36",
+            "end_time": "2024/05/28, 08:35:53",
+            "duration": 38.28621666666666,
+            "distance": 5222.7587890625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/29, 08:04:00",
+            "end_time": "2024/05/29, 08:42:25",
+            "duration": 38.42791666666667,
+            "distance": 5041.9208984375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/05/30, 08:13:30",
+            "end_time": "2024/05/30, 08:51:12",
+            "duration": 37.69915,
+            "distance": 5070.57421875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/01, 07:37:56",
+            "end_time": "2024/06/01, 08:18:30",
+            "duration": 40.5772,
+            "distance": 5445.2939453125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/03, 17:13:54",
+            "end_time": "2024/06/03, 17:57:31",
+            "duration": 43.61743333333333,
+            "distance": 5197.9169921875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/05, 16:25:56",
+            "end_time": "2024/06/05, 16:55:59",
+            "duration": 30.060283333333334,
+            "distance": 5113.22900390625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/08, 06:57:39",
+            "end_time": "2024/06/08, 07:28:37",
+            "duration": 30.964183333333335,
+            "distance": 5007.2509765625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/12, 17:02:00",
+            "end_time": "2024/06/12, 17:41:38",
+            "duration": 39.632933333333334,
+            "distance": 5275.34423828125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/13, 05:38:23",
+            "end_time": "2024/06/13, 06:20:24",
+            "duration": 42.019800000000004,
+            "distance": 5487.51513671875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/17, 08:09:47",
+            "end_time": "2024/06/17, 08:39:55",
+            "duration": 30.1282,
+            "distance": 5136.8388671875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/19, 05:52:17",
+            "end_time": "2024/06/19, 06:22:22",
+            "duration": 30.073733333333333,
+            "distance": 5144.90087890625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/21, 05:46:49",
+            "end_time": "2024/06/21, 06:16:57",
+            "duration": 30.118466666666666,
+            "distance": 5263.7702822179945
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/22, 08:35:53",
+            "end_time": "2024/06/22, 09:20:52",
+            "duration": 44.983216666666664,
+            "distance": 5006.88916015625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/23, 18:28:39",
+            "end_time": "2024/06/23, 19:14:31",
+            "duration": 45.85661666666667,
+            "distance": 5010.0859375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/24, 07:51:05",
+            "end_time": "2024/06/24, 08:23:55",
+            "duration": 32.82575,
+            "distance": 5006.7998046875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/25, 08:58:11",
+            "end_time": "2024/06/25, 09:35:35",
+            "duration": 37.38718333333334,
+            "distance": 5012.158203125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/26, 08:42:24",
+            "end_time": "2024/06/26, 09:18:28",
+            "duration": 36.0555,
+            "distance": 5061.35107421875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/27, 07:37:04",
+            "end_time": "2024/06/27, 08:13:11",
+            "duration": 36.125933333333336,
+            "distance": 5005.7822265625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/28, 15:26:51",
+            "end_time": "2024/06/28, 15:49:34",
+            "duration": 22.721333333333334,
+            "distance": 3005.610107421875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/06/29, 07:43:21",
+            "end_time": "2024/06/29, 08:16:13",
+            "duration": 32.868649999999995,
+            "distance": 5003.7822265625
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/02, 07:25:07",
+            "end_time": "2024/07/02, 08:07:36",
+            "duration": 42.480599999999995,
+            "distance": 5237.787109375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/05, 05:53:17",
+            "end_time": "2024/07/05, 06:35:42",
+            "duration": 42.4211,
+            "distance": 5875.1708984375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/06, 17:11:10",
+            "end_time": "2024/07/06, 17:48:54",
+            "duration": 37.73428333333333,
+            "distance": 5006.44091796875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/07, 07:03:51",
+            "end_time": "2024/07/07, 07:42:56",
+            "duration": 39.08448333333333,
+            "distance": 5232.27685546875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/08, 16:17:07",
+            "end_time": "2024/07/08, 16:55:45",
+            "duration": 38.628,
+            "distance": 5004.09912109375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/09, 06:35:36",
+            "end_time": "2024/07/09, 07:14:23",
+            "duration": 38.78508333333333,
+            "distance": 5196.591796875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/10, 17:21:36",
+            "end_time": "2024/07/10, 18:00:02",
+            "duration": 38.441966666666666,
+            "distance": 5009.158203125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/11, 09:07:21",
+            "end_time": "2024/07/11, 09:45:21",
+            "duration": 37.9987,
+            "distance": 5009.1220703125
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/12, 08:05:33",
+            "end_time": "2024/07/12, 08:43:53",
+            "duration": 38.33025,
+            "distance": 5010.662109375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/14, 19:40:31",
+            "end_time": "2024/07/14, 20:24:28",
+            "duration": 43.95203333333333,
+            "distance": 5207.8232421875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/16, 06:43:37",
+            "end_time": "2024/07/16, 07:28:45",
+            "duration": 45.13368333333334,
+            "distance": 5236.72412109375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/17, 14:42:06",
+            "end_time": "2024/07/17, 14:56:01",
+            "duration": 13.913416666666667,
+            "distance": 750.0369873046875
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/18, 10:35:13",
+            "end_time": "2024/07/18, 10:52:34",
+            "duration": 17.34805,
+            "distance": 844.406005859375
+        },
+        {
+            "activity": "Running",
+            "start_time": "2024/07/19, 06:49:35",
+            "end_time": "2024/07/19, 07:32:40",
+            "duration": 43.0744,
+            "distance": 5025.19482421875
+        }
+    ],
+    "Other (Uncategorized)": [
+        {
+            "activity": "Other (Uncategorized)",
+            "start_time": "2023/07/25, 08:14:11",
+            "end_time": "2023/07/25, 08:26:13",
+            "duration": 12.026333333333334,
+            "distance": 26.868538598098464
+        },
+        {
+            "activity": "Other (Uncategorized)",
+            "start_time": "2023/07/27, 08:30:21",
+            "end_time": "2023/07/27, 08:35:55",
+            "duration": 5.572033333333334,
+            "distance": 25.45440498767223
+        },
+        {
+            "activity": "Other (Uncategorized)",
+            "start_time": "2023/07/29, 07:37:05",
+            "end_time": "2023/07/29, 07:50:40",
+            "duration": 13.577933333333334,
+            "distance": 144.77524125955006
+        },
+        {
+            "activity": "Other (Uncategorized)",
+            "start_time": "2023/07/31, 08:20:23",
+            "end_time": "2023/07/31, 08:33:53",
+            "duration": 13.503666666666668,
+            "distance": 80.44275011679395
+        },
+        {
+            "activity": "Other (Uncategorized)",
+            "start_time": "2023/08/07, 13:06:30",
+            "end_time": "2023/08/07, 13:26:34",
+            "duration": 20.071966666666665,
+            "distance": 146.64297424922546
+        },
+        {
+            "activity": "Other (Uncategorized)",
+            "start_time": "2023/08/28, 07:51:17",
+            "end_time": "2023/08/28, 07:58:47",
+            "duration": 7.51575,
+            "distance": 67.56356248094153
+        }
+    ],
+    "Walking": [
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 15:14:59",
+            "end_time": "2023/07/25, 15:26:33",
+            "duration": 11.573758133333333,
+            "distance": 755.4127370000856
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 15:43:12",
+            "end_time": "2023/07/25, 15:48:55",
+            "duration": 5.71647095,
+            "distance": 335.05919731837025
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 16:06:44",
+            "end_time": "2023/07/25, 16:10:28",
+            "duration": 3.7346972,
+            "distance": 306.8875743370509
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 16:10:30",
+            "end_time": "2023/07/25, 16:12:48",
+            "duration": 2.2948532666666663,
+            "distance": 103.23175356111516
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 16:15:00",
+            "end_time": "2023/07/25, 16:19:08",
+            "duration": 4.13270915,
+            "distance": 319.4213966457459
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 16:48:51",
+            "end_time": "2023/07/25, 16:58:12",
+            "duration": 9.357976866666666,
+            "distance": 648.5117670381499
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 17:35:00",
+            "end_time": "2023/07/25, 18:14:27",
+            "duration": 39.44982313333333,
+            "distance": 2389.520030150635
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 19:07:30",
+            "end_time": "2023/07/25, 19:12:12",
+            "duration": 4.698503766666667,
+            "distance": 531.8286670026888
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 19:12:13",
+            "end_time": "2023/07/25, 19:21:23",
+            "duration": 9.172779116666668,
+            "distance": 620.9910923641698
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/25, 19:21:25",
+            "end_time": "2023/07/25, 19:30:32",
+            "duration": 9.109991333333333,
+            "distance": 560.0929700542462
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/26, 19:19:57",
+            "end_time": "2023/07/26, 19:48:11",
+            "duration": 28.225266666666666,
+            "distance": 1344.8410635153493
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/26, 20:13:18",
+            "end_time": "2023/07/26, 20:15:00",
+            "duration": 1.6867333333333332,
+            "distance": 118.84457307501681
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/27, 08:19:28",
+            "end_time": "2023/07/27, 08:19:37",
+            "duration": 0.15001666666666666,
+            "distance": 1137.8978743422197
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/27, 10:20:18",
+            "end_time": "2023/07/27, 10:36:04",
+            "duration": 15.7678,
+            "distance": 925.8488593186021
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/27, 12:57:29",
+            "end_time": "2023/07/27, 13:16:02",
+            "duration": 18.550416666666667,
+            "distance": 899.3889762310854
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/27, 18:01:12",
+            "end_time": "2023/07/27, 18:15:00",
+            "duration": 13.8068017,
+            "distance": 1245.1642968699284
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/27, 21:14:59",
+            "end_time": "2023/07/27, 21:34:59",
+            "duration": 19.999171966666665,
+            "distance": 1186.8309731919733
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 10:30:30",
+            "end_time": "2023/07/28, 10:33:04",
+            "duration": 2.5590490333333333,
+            "distance": 149.1910958999678
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 11:36:14",
+            "end_time": "2023/07/28, 11:39:49",
+            "duration": 3.5860757000000003,
+            "distance": 216.03884577059665
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 12:18:23",
+            "end_time": "2023/07/28, 12:44:09",
+            "duration": 25.77755,
+            "distance": 1747.5317319646092
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 17:50:59",
+            "end_time": "2023/07/28, 17:52:16",
+            "duration": 1.2812249333333334,
+            "distance": 61.51481205354122
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 18:38:46",
+            "end_time": "2023/07/28, 18:41:49",
+            "duration": 3.047671483333333,
+            "distance": 152.01936312082026
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 20:34:52",
+            "end_time": "2023/07/28, 20:44:16",
+            "duration": 9.403693449999999,
+            "distance": 722.373194003916
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 21:01:21",
+            "end_time": "2023/07/28, 21:07:37",
+            "duration": 6.267308166666667,
+            "distance": 538.204886213824
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 21:07:39",
+            "end_time": "2023/07/28, 21:09:44",
+            "duration": 2.0889081166666665,
+            "distance": 150.2940748076464
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/28, 21:09:46",
+            "end_time": "2023/07/28, 21:16:10",
+            "duration": 6.398250333333333,
+            "distance": 427.8576255108763
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 07:26:37",
+            "end_time": "2023/07/29, 07:28:17",
+            "duration": 1.6630041166666667,
+            "distance": 105.95193696243877
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 09:43:55",
+            "end_time": "2023/07/29, 09:47:42",
+            "duration": 3.7897158666666666,
+            "distance": 362.72527107432927
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 10:43:38",
+            "end_time": "2023/07/29, 10:46:01",
+            "duration": 2.3763883666666668,
+            "distance": 120.90842369144309
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 13:55:32",
+            "end_time": "2023/07/29, 14:03:55",
+            "duration": 8.382083333333334,
+            "distance": 540.8152210690431
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 17:02:41",
+            "end_time": "2023/07/29, 17:04:29",
+            "duration": 1.8067934,
+            "distance": 496.36089725960846
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 17:17:12",
+            "end_time": "2023/07/29, 17:19:00",
+            "duration": 1.8077157166666666,
+            "distance": 81.3126825995085
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 17:49:41",
+            "end_time": "2023/07/29, 17:55:16",
+            "duration": 5.579655,
+            "distance": 432.83642467652436
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 19:04:53",
+            "end_time": "2023/07/29, 19:17:46",
+            "duration": 12.877930683333334,
+            "distance": 1089.9222372511697
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/29, 20:46:15",
+            "end_time": "2023/07/29, 20:50:08",
+            "duration": 3.883724383333333,
+            "distance": 632.8376549728669
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 16:01:47",
+            "end_time": "2023/07/30, 16:03:34",
+            "duration": 1.7809333333333333,
+            "distance": 105.3529539767545
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 16:27:16",
+            "end_time": "2023/07/30, 16:28:34",
+            "duration": 1.31325,
+            "distance": 87.82928238382273
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 17:23:57",
+            "end_time": "2023/07/30, 17:26:07",
+            "duration": 2.1578199666666666,
+            "distance": 118.08015647059062
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 17:32:29",
+            "end_time": "2023/07/30, 17:34:05",
+            "duration": 1.6024880333333333,
+            "distance": 125.81712276935616
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 19:27:40",
+            "end_time": "2023/07/30, 19:40:32",
+            "duration": 12.860227216666667,
+            "distance": 761.905209448919
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 19:55:44",
+            "end_time": "2023/07/30, 19:57:10",
+            "duration": 1.4251648000000001,
+            "distance": 162.625365199017
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 19:58:11",
+            "end_time": "2023/07/30, 20:12:56",
+            "duration": 14.746734366666667,
+            "distance": 872.2665804877189
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 20:17:30",
+            "end_time": "2023/07/30, 20:24:08",
+            "duration": 6.643401600000001,
+            "distance": 405.4981654108392
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/30, 20:24:11",
+            "end_time": "2023/07/30, 20:36:01",
+            "duration": 11.83014235,
+            "distance": 743.6616078931894
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 11:08:45",
+            "end_time": "2023/07/31, 11:14:57",
+            "duration": 6.2007383,
+            "distance": 382.3902496192237
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 11:22:50",
+            "end_time": "2023/07/31, 11:24:02",
+            "duration": 1.1919264666666665,
+            "distance": 77.67937452708607
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 16:02:11",
+            "end_time": "2023/07/31, 16:04:05",
+            "duration": 1.9017062666666669,
+            "distance": 92.62575148291839
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 16:40:48",
+            "end_time": "2023/07/31, 16:44:28",
+            "duration": 3.6673306333333335,
+            "distance": 171.11016686157444
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 17:24:10",
+            "end_time": "2023/07/31, 17:27:17",
+            "duration": 3.1026878333333334,
+            "distance": 238.22714316440252
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 17:33:11",
+            "end_time": "2023/07/31, 17:34:35",
+            "duration": 1.3896725166666668,
+            "distance": 70.70668052131175
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 18:39:58",
+            "end_time": "2023/07/31, 18:43:18",
+            "duration": 3.3320901333333333,
+            "distance": 267.9783191757715
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/07/31, 18:52:18",
+            "end_time": "2023/07/31, 18:55:09",
+            "duration": 2.8508164166666665,
+            "distance": 160.23472243149507
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 09:58:02",
+            "end_time": "2023/08/01, 10:13:32",
+            "duration": 15.5035,
+            "distance": 1230.4864280959555
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 10:24:28",
+            "end_time": "2023/08/01, 10:25:51",
+            "duration": 1.37385,
+            "distance": 124.72712619303582
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 11:55:53",
+            "end_time": "2023/08/01, 12:11:12",
+            "duration": 15.310483333333334,
+            "distance": 900.852752737441
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 12:11:33",
+            "end_time": "2023/08/01, 12:16:30",
+            "duration": 4.951233333333334,
+            "distance": 309.40182804087397
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 13:17:13",
+            "end_time": "2023/08/01, 13:20:01",
+            "duration": 2.79295,
+            "distance": 142.75165543567198
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 13:28:09",
+            "end_time": "2023/08/01, 13:31:09",
+            "duration": 3.013,
+            "distance": 167.57483283550886
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 15:21:31",
+            "end_time": "2023/08/01, 15:25:11",
+            "duration": 3.66005,
+            "distance": 239.93117585615627
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 15:28:13",
+            "end_time": "2023/08/01, 15:30:01",
+            "duration": 1.8051833333333334,
+            "distance": 216.89127836344852
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 15:30:42",
+            "end_time": "2023/08/01, 15:33:11",
+            "duration": 2.4827,
+            "distance": 151.13878783201903
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 16:44:41",
+            "end_time": "2023/08/01, 16:55:00",
+            "duration": 10.312366666666666,
+            "distance": 686.5618678619371
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/01, 17:15:00",
+            "end_time": "2023/08/01, 17:25:28",
+            "duration": 10.465,
+            "distance": 760.2495617496489
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/02, 10:31:04",
+            "end_time": "2023/08/02, 10:47:26",
+            "duration": 16.363583333333334,
+            "distance": 1073.7682191822523
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/02, 13:44:14",
+            "end_time": "2023/08/02, 13:47:14",
+            "duration": 2.9968833333333333,
+            "distance": 205.04937351180405
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/02, 15:41:31",
+            "end_time": "2023/08/02, 15:42:44",
+            "duration": 1.2271333333333334,
+            "distance": 60.10067844311499
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/02, 19:14:58",
+            "end_time": "2023/08/02, 19:32:59",
+            "duration": 18.01640796666667,
+            "distance": 960.9037882846267
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/02, 20:53:49",
+            "end_time": "2023/08/02, 21:00:05",
+            "duration": 6.255972166666667,
+            "distance": 561.4143323051995
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/02, 21:00:06",
+            "end_time": "2023/08/02, 21:06:17",
+            "duration": 6.1834293,
+            "distance": 476.56633334141424
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/03, 11:47:09",
+            "end_time": "2023/08/03, 11:48:43",
+            "duration": 1.5608469166666665,
+            "distance": 118.78722327580374
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/03, 11:53:41",
+            "end_time": "2023/08/03, 11:55:08",
+            "duration": 1.4577167,
+            "distance": 79.89854898908227
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/03, 11:55:51",
+            "end_time": "2023/08/03, 11:59:06",
+            "duration": 3.2442064000000004,
+            "distance": 220.36439223703076
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/04, 09:38:03",
+            "end_time": "2023/08/04, 09:48:17",
+            "duration": 10.231677683333334,
+            "distance": 704.9799242356469
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/04, 09:59:15",
+            "end_time": "2023/08/04, 10:03:49",
+            "duration": 4.567197433333333,
+            "distance": 272.22072000705026
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/04, 10:03:51",
+            "end_time": "2023/08/04, 10:14:57",
+            "duration": 11.111783916666667,
+            "distance": 738.8829998490731
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/04, 19:50:17",
+            "end_time": "2023/08/04, 20:07:08",
+            "duration": 16.855877966666664,
+            "distance": 1472.9199097232893
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/05, 01:00:38",
+            "end_time": "2023/08/05, 01:20:48",
+            "duration": 20.15735503333333,
+            "distance": 1128.9799955379874
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/05, 01:20:50",
+            "end_time": "2023/08/05, 01:32:22",
+            "duration": 11.5319363,
+            "distance": 762.1933789544468
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/05, 15:34:21",
+            "end_time": "2023/08/05, 15:40:03",
+            "duration": 5.6947893333333335,
+            "distance": 390.7133358860928
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/05, 15:40:56",
+            "end_time": "2023/08/05, 15:44:05",
+            "duration": 3.1565870499999997,
+            "distance": 208.8652537668749
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/05, 15:47:58",
+            "end_time": "2023/08/05, 15:52:41",
+            "duration": 4.7159823833333325,
+            "distance": 345.53068065279325
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/05, 15:52:43",
+            "end_time": "2023/08/05, 15:54:57",
+            "duration": 2.237391833333333,
+            "distance": 133.23261736442404
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/06, 18:55:22",
+            "end_time": "2023/08/06, 18:57:58",
+            "duration": 2.59554085,
+            "distance": 123.73669091229556
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/07, 22:47:15",
+            "end_time": "2023/08/07, 22:50:37",
+            "duration": 3.3680697333333334,
+            "distance": 223.23397201519714
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/07, 22:50:39",
+            "end_time": "2023/08/07, 22:54:23",
+            "duration": 3.735752816666667,
+            "distance": 277.6942158838753
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/08, 17:03:44",
+            "end_time": "2023/08/08, 17:04:56",
+            "duration": 1.1930106333333332,
+            "distance": 62.22187885875434
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/08, 17:13:03",
+            "end_time": "2023/08/08, 17:18:58",
+            "duration": 5.917673566666666,
+            "distance": 672.0825220860864
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/08, 17:54:57",
+            "end_time": "2023/08/08, 18:03:52",
+            "duration": 8.92857905,
+            "distance": 417.87648188095244
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/08, 20:14:57",
+            "end_time": "2023/08/08, 20:25:35",
+            "duration": 10.629634900000001,
+            "distance": 479.39129393449366
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/09, 10:03:31",
+            "end_time": "2023/08/09, 10:06:09",
+            "duration": 2.62094175,
+            "distance": 132.92855938006608
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/09, 10:07:02",
+            "end_time": "2023/08/09, 10:14:56",
+            "duration": 7.8891683666666665,
+            "distance": 458.17928977810016
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/09, 13:00:02",
+            "end_time": "2023/08/09, 13:02:41",
+            "duration": 2.653801666666667,
+            "distance": 215.61994468893488
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/09, 13:03:28",
+            "end_time": "2023/08/09, 13:11:53",
+            "duration": 8.4167113,
+            "distance": 649.4842935370689
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/10, 19:59:49",
+            "end_time": "2023/08/10, 20:12:57",
+            "duration": 13.148683333333334,
+            "distance": 693.6325359140683
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/10, 20:14:59",
+            "end_time": "2023/08/10, 20:16:56",
+            "duration": 1.957,
+            "distance": 801.1315990792108
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/10, 22:34:59",
+            "end_time": "2023/08/10, 22:36:16",
+            "duration": 1.2758833333333333,
+            "distance": 608.4947950872221
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 10:40:09",
+            "end_time": "2023/08/12, 10:42:22",
+            "duration": 2.218001866666667,
+            "distance": 110.30242161324632
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 10:44:28",
+            "end_time": "2023/08/12, 10:58:23",
+            "duration": 13.912384766666666,
+            "distance": 1120.8386429613854
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 12:40:00",
+            "end_time": "2023/08/12, 12:42:12",
+            "duration": 2.2116260000000003,
+            "distance": 121.28432978910554
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 14:27:47",
+            "end_time": "2023/08/12, 14:29:04",
+            "duration": 1.2819333333333334,
+            "distance": 76.36321496301669
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 17:00:03",
+            "end_time": "2023/08/12, 17:17:33",
+            "duration": 17.501816666666667,
+            "distance": 818.7833604367901
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 17:50:08",
+            "end_time": "2023/08/12, 17:59:30",
+            "duration": 9.368033333333333,
+            "distance": 624.9518765879841
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/12, 20:01:51",
+            "end_time": "2023/08/12, 20:15:08",
+            "duration": 13.276216666666667,
+            "distance": 762.8956371625343
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 11:02:33",
+            "end_time": "2023/08/14, 11:14:12",
+            "duration": 11.648083333333334,
+            "distance": 867.7278877955946
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 13:03:10",
+            "end_time": "2023/08/14, 13:05:57",
+            "duration": 2.7919008499999998,
+            "distance": 177.22836773873777
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 15:08:50",
+            "end_time": "2023/08/14, 15:11:19",
+            "duration": 2.4947038333333333,
+            "distance": 198.9703302755841
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 16:48:40",
+            "end_time": "2023/08/14, 17:05:01",
+            "duration": 16.35508015,
+            "distance": 1081.4494082598162
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 17:25:27",
+            "end_time": "2023/08/14, 17:36:14",
+            "duration": 10.769197016666668,
+            "distance": 772.6362885257976
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 17:47:22",
+            "end_time": "2023/08/14, 17:48:53",
+            "duration": 1.5179862166666667,
+            "distance": 96.62394257181064
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 17:55:19",
+            "end_time": "2023/08/14, 18:00:27",
+            "duration": 5.1290809,
+            "distance": 546.2689324576136
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 20:02:54",
+            "end_time": "2023/08/14, 20:08:11",
+            "duration": 5.28003855,
+            "distance": 423.45634306542553
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 20:09:30",
+            "end_time": "2023/08/14, 20:12:07",
+            "duration": 2.612068733333333,
+            "distance": 158.84771506774132
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 20:12:09",
+            "end_time": "2023/08/14, 20:15:16",
+            "duration": 3.1147954166666665,
+            "distance": 161.9182983938039
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 20:24:41",
+            "end_time": "2023/08/14, 20:28:43",
+            "duration": 4.047312,
+            "distance": 424.5059902871501
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 22:45:51",
+            "end_time": "2023/08/14, 22:56:02",
+            "duration": 10.184249999999999,
+            "distance": 741.8593710163195
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/14, 23:00:46",
+            "end_time": "2023/08/14, 23:04:30",
+            "duration": 3.7309,
+            "distance": 311.0627448573788
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/15, 00:15:00",
+            "end_time": "2023/08/15, 00:28:22",
+            "duration": 13.358316666666667,
+            "distance": 988.5473201931813
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/16, 15:36:56",
+            "end_time": "2023/08/16, 15:41:52",
+            "duration": 4.927933333333333,
+            "distance": 271.5136532018371
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/17, 16:35:01",
+            "end_time": "2023/08/17, 16:42:47",
+            "duration": 7.77735,
+            "distance": 689.925936859077
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/17, 20:48:51",
+            "end_time": "2023/08/17, 20:53:47",
+            "duration": 4.944333333333334,
+            "distance": 303.22869131992445
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/17, 20:54:51",
+            "end_time": "2023/08/17, 21:12:13",
+            "duration": 17.37698333333333,
+            "distance": 1077.1351169240017
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/17, 21:18:00",
+            "end_time": "2023/08/17, 21:24:08",
+            "duration": 6.13495,
+            "distance": 498.2465828486558
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/19, 10:28:32",
+            "end_time": "2023/08/19, 10:29:40",
+            "duration": 1.1330166666666666,
+            "distance": 94.5926796883938
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/19, 10:35:00",
+            "end_time": "2023/08/19, 10:37:55",
+            "duration": 2.9263166666666667,
+            "distance": 196.60893710585157
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/19, 16:26:16",
+            "end_time": "2023/08/19, 16:28:02",
+            "duration": 1.7633460166666666,
+            "distance": 93.39417269805872
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/19, 18:34:51",
+            "end_time": "2023/08/19, 18:37:32",
+            "duration": 2.686035766666667,
+            "distance": 142.99166089594374
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 01:46:41",
+            "end_time": "2023/08/20, 01:48:17",
+            "duration": 1.5972597666666668,
+            "distance": 113.03409875038665
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 02:10:09",
+            "end_time": "2023/08/20, 02:16:44",
+            "duration": 6.5836994833333335,
+            "distance": 624.8923695751641
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 02:18:15",
+            "end_time": "2023/08/20, 02:21:51",
+            "duration": 3.6056220999999997,
+            "distance": 247.97437052097197
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 02:24:18",
+            "end_time": "2023/08/20, 02:27:58",
+            "duration": 3.67252445,
+            "distance": 232.6289738323323
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 02:29:37",
+            "end_time": "2023/08/20, 02:31:48",
+            "duration": 2.179805066666667,
+            "distance": 116.66602286016439
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 02:31:50",
+            "end_time": "2023/08/20, 02:34:08",
+            "duration": 2.3064413999999998,
+            "distance": 154.37065327428832
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/20, 02:50:02",
+            "end_time": "2023/08/20, 02:51:16",
+            "duration": 1.2448039999999998,
+            "distance": 208.5414633148087
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/21, 11:20:57",
+            "end_time": "2023/08/21, 11:22:33",
+            "duration": 1.6101166666666666,
+            "distance": 81.3126825995085
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/21, 16:25:25",
+            "end_time": "2023/08/21, 16:28:59",
+            "duration": 3.5755,
+            "distance": 195.1504382388204
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/21, 16:35:35",
+            "end_time": "2023/08/21, 16:41:06",
+            "duration": 5.520316666666667,
+            "distance": 335.0737359642124
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/21, 16:42:12",
+            "end_time": "2023/08/21, 16:43:29",
+            "duration": 1.2864166666666668,
+            "distance": 71.41374732652487
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/22, 08:20:04",
+            "end_time": "2023/08/22, 08:23:13",
+            "duration": 3.1467666666666667,
+            "distance": 193.49776424434108
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/22, 09:25:46",
+            "end_time": "2023/08/22, 09:27:30",
+            "duration": 1.7435,
+            "distance": 74.94908135259045
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/22, 21:14:59",
+            "end_time": "2023/08/22, 21:25:34",
+            "duration": 10.594862116666667,
+            "distance": 950.1137439660292
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/22, 23:34:58",
+            "end_time": "2023/08/22, 23:45:24",
+            "duration": 10.442505816666666,
+            "distance": 923.6100957003117
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/22, 23:54:59",
+            "end_time": "2023/08/23, 00:07:23",
+            "duration": 12.411255133333333,
+            "distance": 910.1880222639588
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/23, 15:48:37",
+            "end_time": "2023/08/23, 15:50:30",
+            "duration": 1.8955182166666666,
+            "distance": 80.60561579429539
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/23, 17:24:21",
+            "end_time": "2023/08/23, 17:25:46",
+            "duration": 1.4112981666666669,
+            "distance": 96.41272214355547
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/23, 17:47:16",
+            "end_time": "2023/08/23, 17:49:20",
+            "duration": 2.0688834166666665,
+            "distance": 141.01581898433858
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/24, 16:40:00",
+            "end_time": "2023/08/24, 16:41:32",
+            "duration": 1.5363166666666668,
+            "distance": 72.8278809369511
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/24, 16:51:09",
+            "end_time": "2023/08/24, 16:52:19",
+            "duration": 1.18155,
+            "distance": 532.659281201843
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/25, 15:46:47",
+            "end_time": "2023/08/25, 15:48:43",
+            "duration": 1.9293455333333334,
+            "distance": 148.7311958931908
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/25, 22:49:19",
+            "end_time": "2023/08/25, 22:53:44",
+            "duration": 4.423595783333334,
+            "distance": 273.63485361747644
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/25, 23:28:31",
+            "end_time": "2023/08/25, 23:34:09",
+            "duration": 5.64587655,
+            "distance": 454.5721302930161
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/25, 23:34:12",
+            "end_time": "2023/08/25, 23:35:40",
+            "duration": 1.4673004666666667,
+            "distance": 95.91114824225944
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/26, 00:07:15",
+            "end_time": "2023/08/26, 00:08:15",
+            "duration": 1.0081261,
+            "distance": 95.02904435649909
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/26, 08:55:51",
+            "end_time": "2023/08/26, 09:01:48",
+            "duration": 5.9576249,
+            "distance": 319.22872444036653
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 12:54:04",
+            "end_time": "2023/08/27, 12:56:10",
+            "duration": 2.10094905,
+            "distance": 104.64588717154139
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 13:28:02",
+            "end_time": "2023/08/27, 13:29:52",
+            "duration": 1.82393055,
+            "distance": 148.48402909475465
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 13:29:54",
+            "end_time": "2023/08/27, 13:33:02",
+            "duration": 3.135571233333333,
+            "distance": 201.29190815817213
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 14:42:30",
+            "end_time": "2023/08/27, 14:48:52",
+            "duration": 6.3520804,
+            "distance": 499.2051273685894
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 14:52:15",
+            "end_time": "2023/08/27, 14:53:59",
+            "duration": 1.7216228333333334,
+            "distance": 137.17096021134478
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 14:54:57",
+            "end_time": "2023/08/27, 14:56:29",
+            "duration": 1.53314025,
+            "distance": 179.59496852413184
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 17:01:29",
+            "end_time": "2023/08/27, 17:04:11",
+            "duration": 2.697640183333333,
+            "distance": 227.08850882409035
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 18:14:56",
+            "end_time": "2023/08/27, 18:17:22",
+            "duration": 2.421428216666667,
+            "distance": 252.42284946108293
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 18:23:33",
+            "end_time": "2023/08/27, 18:25:55",
+            "duration": 2.3639338,
+            "distance": 175.86615874590734
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/27, 18:28:51",
+            "end_time": "2023/08/27, 18:30:19",
+            "duration": 1.4609161666666668,
+            "distance": 95.0594801989779
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 09:49:06",
+            "end_time": "2023/08/28, 10:07:17",
+            "duration": 18.1769046,
+            "distance": 1134.825719793482
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 10:51:35",
+            "end_time": "2023/08/28, 10:52:48",
+            "duration": 1.2169843166666667,
+            "distance": 62.22187885875434
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 11:55:23",
+            "end_time": "2023/08/28, 12:13:59",
+            "duration": 18.5965274,
+            "distance": 1125.4942825126582
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 13:14:57",
+            "end_time": "2023/08/28, 13:28:35",
+            "duration": 13.633953983333333,
+            "distance": 712.2209001884553
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 14:47:23",
+            "end_time": "2023/08/28, 14:49:21",
+            "duration": 1.9586180166666667,
+            "distance": 106.76708758718074
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 16:10:01",
+            "end_time": "2023/08/28, 16:13:07",
+            "duration": 3.0969713333333333,
+            "distance": 188.6313390355949
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 16:30:04",
+            "end_time": "2023/08/28, 16:34:57",
+            "duration": 4.889872266666667,
+            "distance": 290.65778787219324
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 16:34:59",
+            "end_time": "2023/08/28, 16:44:01",
+            "duration": 9.031172333333334,
+            "distance": 686.7113970108479
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 17:11:32",
+            "end_time": "2023/08/28, 17:28:25",
+            "duration": 16.88425875,
+            "distance": 1204.363842421343
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 17:28:49",
+            "end_time": "2023/08/28, 17:34:18",
+            "duration": 5.490864566666667,
+            "distance": 390.6080482264033
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 17:38:04",
+            "end_time": "2023/08/28, 17:49:15",
+            "duration": 11.186116766666666,
+            "distance": 601.8801689374543
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 17:49:17",
+            "end_time": "2023/08/28, 17:56:09",
+            "duration": 6.86522565,
+            "distance": 514.9599966503653
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 18:03:43",
+            "end_time": "2023/08/28, 18:10:03",
+            "duration": 6.3367056,
+            "distance": 347.16980135964064
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 18:10:05",
+            "end_time": "2023/08/28, 18:20:27",
+            "duration": 10.382461483333334,
+            "distance": 843.0742884285332
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 18:22:34",
+            "end_time": "2023/08/28, 18:35:42",
+            "duration": 13.144379083333332,
+            "distance": 877.7645266195655
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 19:51:16",
+            "end_time": "2023/08/28, 19:53:17",
+            "duration": 2.0150933666666666,
+            "distance": 132.64517754785038
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/28, 20:08:54",
+            "end_time": "2023/08/28, 20:24:29",
+            "duration": 15.575758516666667,
+            "distance": 1117.6741188000722
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/29, 17:46:54",
+            "end_time": "2023/08/29, 17:54:57",
+            "duration": 8.057836016666666,
+            "distance": 498.8442476431055
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/29, 17:55:12",
+            "end_time": "2023/08/29, 18:03:30",
+            "duration": 8.3029118,
+            "distance": 439.69514269529236
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/08/29, 18:03:32",
+            "end_time": "2023/08/29, 18:08:47",
+            "duration": 5.251322849999999,
+            "distance": 280.7055216696076
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/01, 07:34:59",
+            "end_time": "2023/09/01, 07:37:39",
+            "duration": 2.6643550499999997,
+            "distance": 232.62497891511566
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/01, 11:34:59",
+            "end_time": "2023/09/01, 11:36:13",
+            "duration": 1.2172238833333333,
+            "distance": 67.17134649524615
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/01, 13:32:07",
+            "end_time": "2023/09/01, 13:34:06",
+            "duration": 1.99272995,
+            "distance": 150.60522951039403
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/02, 16:50:55",
+            "end_time": "2023/09/02, 16:52:03",
+            "duration": 1.1425503,
+            "distance": 109.59535480803322
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/04, 10:25:20",
+            "end_time": "2023/09/04, 10:27:55",
+            "duration": 2.5857582833333335,
+            "distance": 198.685772264886
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/04, 17:09:30",
+            "end_time": "2023/09/04, 17:10:36",
+            "duration": 1.0974949666666667,
+            "distance": 67.96847831536549
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/04, 17:13:31",
+            "end_time": "2023/09/04, 17:14:37",
+            "duration": 1.11011345,
+            "distance": 60.807745248328104
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/04, 17:15:50",
+            "end_time": "2023/09/04, 17:18:15",
+            "duration": 2.4136861499999998,
+            "distance": 114.74422602749475
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/05, 09:45:44",
+            "end_time": "2023/09/05, 09:48:23",
+            "duration": 2.6458896166666666,
+            "distance": 151.94206312025156
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/06, 11:57:29",
+            "end_time": "2023/09/06, 11:58:47",
+            "duration": 1.2938014166666667,
+            "distance": 191.61510421275483
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/06, 17:20:23",
+            "end_time": "2023/09/06, 17:36:00",
+            "duration": 15.616666666666667,
+            "distance": 1273.75
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/07, 17:53:37",
+            "end_time": "2023/09/07, 17:58:53",
+            "duration": 5.273116666666667,
+            "distance": 239.9083136683664
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/07, 18:32:00",
+            "end_time": "2023/09/07, 18:34:59",
+            "duration": 2.9796666666666667,
+            "distance": 221.13253147533902
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/08, 07:37:43",
+            "end_time": "2023/09/08, 07:40:37",
+            "duration": 2.8942666666666668,
+            "distance": 156.79834917207103
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/08, 12:30:13",
+            "end_time": "2023/09/08, 12:31:31",
+            "duration": 1.2882,
+            "distance": 96.9781319966585
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/08, 12:31:34",
+            "end_time": "2023/09/08, 12:35:44",
+            "duration": 4.168716666666667,
+            "distance": 339.93261962484826
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/09, 17:36:57",
+            "end_time": "2023/09/09, 17:39:05",
+            "duration": 2.13281755,
+            "distance": 108.18122119760697
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/09, 21:53:40",
+            "end_time": "2023/09/09, 22:01:14",
+            "duration": 7.572766666666666,
+            "distance": 379.6948743994441
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/09, 22:01:17",
+            "end_time": "2023/09/09, 22:15:00",
+            "duration": 13.718183333333334,
+            "distance": 1045.707966927367
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/09, 23:12:56",
+            "end_time": "2023/09/09, 23:21:03",
+            "duration": 8.1265,
+            "distance": 729.2656094583677
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/10, 10:39:16",
+            "end_time": "2023/09/10, 10:54:35",
+            "duration": 15.3058,
+            "distance": 945.7799952493551
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/10, 11:15:00",
+            "end_time": "2023/09/10, 11:16:14",
+            "duration": 1.23045,
+            "distance": 74.70119917495923
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/11, 08:15:33",
+            "end_time": "2023/09/11, 08:20:18",
+            "duration": 4.765483333333333,
+            "distance": 214.38505773378793
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/11, 12:37:36",
+            "end_time": "2023/09/11, 12:41:21",
+            "duration": 3.754116666666667,
+            "distance": 491.3373229805539
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/12, 08:54:59",
+            "end_time": "2023/09/12, 09:01:31",
+            "duration": 6.531066666666666,
+            "distance": 638.6080272458255
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/12, 11:07:07",
+            "end_time": "2023/09/12, 11:10:47",
+            "duration": 3.67925,
+            "distance": 253.93621129396945
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/12, 14:45:02",
+            "end_time": "2023/09/12, 14:46:29",
+            "duration": 1.4532666666666667,
+            "distance": 101.4786064834088
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/12, 16:14:59",
+            "end_time": "2023/09/12, 16:21:48",
+            "duration": 6.826266666666667,
+            "distance": 544.1237452785138
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/12, 16:49:37",
+            "end_time": "2023/09/12, 16:54:59",
+            "duration": 5.357216666666667,
+            "distance": 260.0453692300116
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/13, 10:47:53",
+            "end_time": "2023/09/13, 10:50:39",
+            "duration": 2.7650910333333334,
+            "distance": 147.39230090498944
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/13, 10:53:32",
+            "end_time": "2023/09/13, 10:54:33",
+            "duration": 1.0020844166666667,
+            "distance": 50.201743170131344
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/13, 16:09:57",
+            "end_time": "2023/09/13, 16:11:26",
+            "duration": 1.4846499999999998,
+            "distance": 340.0991333075095
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/13, 18:46:58",
+            "end_time": "2023/09/13, 18:53:19",
+            "duration": 6.3412,
+            "distance": 296.26099138429623
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/13, 18:55:43",
+            "end_time": "2023/09/13, 18:58:23",
+            "duration": 2.6703666666666668,
+            "distance": 254.86284490750097
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/14, 12:19:33",
+            "end_time": "2023/09/14, 12:22:46",
+            "duration": 3.2264666666666666,
+            "distance": 263.0288515392797
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/14, 13:39:58",
+            "end_time": "2023/09/14, 13:42:07",
+            "duration": 2.154033333333333,
+            "distance": 137.63330859809003
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/14, 16:04:36",
+            "end_time": "2023/09/14, 16:06:40",
+            "duration": 2.0712166666666665,
+            "distance": 125.99586035832077
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/14, 17:13:27",
+            "end_time": "2023/09/14, 17:15:00",
+            "duration": 1.5495833333333333,
+            "distance": 114.49223990176567
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 12:24:57",
+            "end_time": "2023/09/15, 12:34:59",
+            "duration": 10.034593033333334,
+            "distance": 890.197107763315
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 12:46:51",
+            "end_time": "2023/09/15, 12:49:18",
+            "duration": 2.4566701833333338,
+            "distance": 538.4881330537912
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 14:14:58",
+            "end_time": "2023/09/15, 14:17:22",
+            "duration": 2.393607783333333,
+            "distance": 130.1002921592136
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 17:50:58",
+            "end_time": "2023/09/15, 17:52:50",
+            "duration": 1.85673425,
+            "distance": 101.81761995068892
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 17:53:19",
+            "end_time": "2023/09/15, 18:00:04",
+            "duration": 6.746103683333333,
+            "distance": 392.6371294391121
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 18:19:16",
+            "end_time": "2023/09/15, 18:28:07",
+            "duration": 8.859433849999999,
+            "distance": 378.28074078901784
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 19:34:59",
+            "end_time": "2023/09/15, 19:41:49",
+            "duration": 6.822021916666667,
+            "distance": 436.8512653831952
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/15, 19:43:00",
+            "end_time": "2023/09/15, 19:54:59",
+            "duration": 11.999058600000001,
+            "distance": 915.3997392444815
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 09:08:51",
+            "end_time": "2023/09/16, 09:35:00",
+            "duration": 26.146633333333334,
+            "distance": 2084.846071861783
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 10:15:00",
+            "end_time": "2023/09/16, 10:17:32",
+            "duration": 2.53145,
+            "distance": 440.18919795508685
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 10:17:33",
+            "end_time": "2023/09/16, 10:19:25",
+            "duration": 1.8658499999999998,
+            "distance": 127.97223067682397
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 10:19:27",
+            "end_time": "2023/09/16, 10:28:50",
+            "duration": 9.385916666666667,
+            "distance": 673.6929719972901
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 11:12:51",
+            "end_time": "2023/09/16, 11:20:23",
+            "duration": 7.539033333333333,
+            "distance": 847.5732291524381
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 11:20:24",
+            "end_time": "2023/09/16, 11:21:56",
+            "duration": 1.5287499999999998,
+            "distance": 179.86906614149942
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 11:26:58",
+            "end_time": "2023/09/16, 11:34:36",
+            "duration": 7.634016666666667,
+            "distance": 522.5642739913991
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 11:35:47",
+            "end_time": "2023/09/16, 11:48:03",
+            "duration": 12.264916666666666,
+            "distance": 842.0747563150316
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 11:51:41",
+            "end_time": "2023/09/16, 11:54:32",
+            "duration": 2.853666666666667,
+            "distance": 260.76379839483405
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 12:57:16",
+            "end_time": "2023/09/16, 12:58:54",
+            "duration": 1.6421982166666667,
+            "distance": 135.04975979570543
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 13:09:52",
+            "end_time": "2023/09/16, 13:21:17",
+            "duration": 11.401935816666667,
+            "distance": 806.7914387308709
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 14:11:44",
+            "end_time": "2023/09/16, 14:13:05",
+            "duration": 1.3525142,
+            "distance": 82.69107530413628
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 14:13:06",
+            "end_time": "2023/09/16, 14:22:16",
+            "duration": 9.169137833333334,
+            "distance": 709.7588556380122
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 14:38:16",
+            "end_time": "2023/09/16, 14:45:41",
+            "duration": 7.4266,
+            "distance": 557.122843859152
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 14:45:42",
+            "end_time": "2023/09/16, 14:53:13",
+            "duration": 7.519783333333334,
+            "distance": 633.813086058571
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 15:04:13",
+            "end_time": "2023/09/16, 15:06:03",
+            "duration": 1.8404833333333335,
+            "distance": 89.2092152397447
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 17:45:16",
+            "end_time": "2023/09/16, 17:47:18",
+            "duration": 2.0252923333333333,
+            "distance": 200.09990587531223
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 17:49:31",
+            "end_time": "2023/09/16, 18:04:54",
+            "duration": 15.37782295,
+            "distance": 1199.5802872598306
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 18:34:59",
+            "end_time": "2023/09/16, 18:50:22",
+            "duration": 15.377568700000001,
+            "distance": 830.8034961254131
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 19:11:15",
+            "end_time": "2023/09/16, 19:14:59",
+            "duration": 3.7342431,
+            "distance": 219.1907096160664
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 20:13:18",
+            "end_time": "2023/09/16, 20:24:36",
+            "duration": 11.3026267,
+            "distance": 1030.054705466506
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 20:24:38",
+            "end_time": "2023/09/16, 20:26:01",
+            "duration": 1.3855684833333333,
+            "distance": 111.52434963923474
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/16, 20:26:02",
+            "end_time": "2023/09/16, 20:30:53",
+            "duration": 4.844149266666666,
+            "distance": 287.0691229165257
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 09:54:11",
+            "end_time": "2023/09/17, 10:03:42",
+            "duration": 9.513797,
+            "distance": 753.1768084941882
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 10:05:35",
+            "end_time": "2023/09/17, 10:09:28",
+            "duration": 3.8803463666666667,
+            "distance": 338.12618470617736
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 10:50:32",
+            "end_time": "2023/09/17, 10:51:41",
+            "duration": 1.14336375,
+            "distance": 94.74695189855774
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 11:19:25",
+            "end_time": "2023/09/17, 11:21:34",
+            "duration": 2.1460500000000002,
+            "distance": 250.67062301192703
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 11:35:00",
+            "end_time": "2023/09/17, 11:39:33",
+            "duration": 4.5640833333333335,
+            "distance": 336.0256805057078
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 11:39:35",
+            "end_time": "2023/09/17, 11:45:13",
+            "duration": 5.629983333333333,
+            "distance": 409.39071479374036
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 12:44:39",
+            "end_time": "2023/09/17, 12:57:02",
+            "duration": 12.371233333333333,
+            "distance": 1007.821132799419
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 16:11:55",
+            "end_time": "2023/09/17, 16:15:00",
+            "duration": 3.0778000000000003,
+            "distance": 222.77182273918663
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 16:19:12",
+            "end_time": "2023/09/17, 16:20:25",
+            "duration": 1.2161,
+            "distance": 88.68994207920794
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 16:30:50",
+            "end_time": "2023/09/17, 16:32:54",
+            "duration": 2.0559833333333333,
+            "distance": 171.48908306274058
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/17, 16:33:48",
+            "end_time": "2023/09/17, 16:35:00",
+            "duration": 1.2015500000000001,
+            "distance": 53.03001039098381
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 12:18:33",
+            "end_time": "2023/09/18, 12:21:41",
+            "duration": 3.1445166666666666,
+            "distance": 204.64124977368584
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 16:23:02",
+            "end_time": "2023/09/18, 16:26:47",
+            "duration": 3.757633333333333,
+            "distance": 226.454038277142
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 16:26:49",
+            "end_time": "2023/09/18, 16:31:55",
+            "duration": 5.1045,
+            "distance": 419.83770731521525
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 16:40:12",
+            "end_time": "2023/09/18, 16:48:18",
+            "duration": 8.104933333333333,
+            "distance": 611.9159817337795
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 17:06:10",
+            "end_time": "2023/09/18, 17:11:12",
+            "duration": 5.0192,
+            "distance": 404.71710674984644
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 17:11:17",
+            "end_time": "2023/09/18, 17:13:52",
+            "duration": 2.5801000000000003,
+            "distance": 193.77698271143493
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 17:20:39",
+            "end_time": "2023/09/18, 17:35:00",
+            "duration": 14.346583333333333,
+            "distance": 875.467804516876
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/18, 20:45:22",
+            "end_time": "2023/09/18, 20:46:53",
+            "duration": 1.5133,
+            "distance": 76.36321496301669
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/19, 07:55:00",
+            "end_time": "2023/09/19, 07:57:46",
+            "duration": 2.7803835833333332,
+            "distance": 121.61549049665621
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/19, 15:50:29",
+            "end_time": "2023/09/19, 15:59:23",
+            "duration": 8.906088233333332,
+            "distance": 850.065590671953
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/19, 16:09:01",
+            "end_time": "2023/09/19, 16:14:45",
+            "duration": 5.7349848833333334,
+            "distance": 643.2216181606725
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/19, 16:36:16",
+            "end_time": "2023/09/19, 16:39:15",
+            "duration": 2.98192695,
+            "distance": 142.8274946530497
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/19, 16:43:35",
+            "end_time": "2023/09/19, 16:47:22",
+            "duration": 3.7809937999999996,
+            "distance": 280.7467683044804
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/20, 08:20:08",
+            "end_time": "2023/09/20, 08:22:43",
+            "duration": 2.58585,
+            "distance": 160.30987609651322
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/20, 16:00:00",
+            "end_time": "2023/09/20, 16:05:29",
+            "duration": 5.475666666666667,
+            "distance": 356.6316435731345
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/20, 16:12:40",
+            "end_time": "2023/09/20, 16:16:12",
+            "duration": 3.52985,
+            "distance": 167.57483283550886
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/21, 07:51:54",
+            "end_time": "2023/09/21, 07:54:59",
+            "duration": 3.0856833333333333,
+            "distance": 135.04975979570543
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/21, 10:05:42",
+            "end_time": "2023/09/21, 10:06:47",
+            "duration": 1.0794166666666667,
+            "distance": 50.201743170131344
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/22, 12:55:00",
+            "end_time": "2023/09/22, 13:01:36",
+            "duration": 6.596454383333334,
+            "distance": 507.06753635635533
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/22, 13:16:07",
+            "end_time": "2023/09/22, 13:24:05",
+            "duration": 7.9532343,
+            "distance": 479.39129393449366
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/24, 15:36:39",
+            "end_time": "2023/09/24, 15:38:27",
+            "duration": 1.8077666666666665,
+            "distance": 80.60561579429539
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/24, 15:56:50",
+            "end_time": "2023/09/24, 16:05:44",
+            "duration": 8.902266666666666,
+            "distance": 719.2913547076056
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/24, 16:34:59",
+            "end_time": "2023/09/24, 16:36:34",
+            "duration": 1.5720166666666666,
+            "distance": 228.38257808383696
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/24, 16:45:26",
+            "end_time": "2023/09/24, 16:47:29",
+            "duration": 2.0478333333333336,
+            "distance": 90.99504817732344
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/24, 16:50:55",
+            "end_time": "2023/09/24, 16:54:59",
+            "duration": 4.076766666666667,
+            "distance": 175.35256769285314
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/24, 17:23:03",
+            "end_time": "2023/09/24, 17:24:06",
+            "duration": 1.0497166666666666,
+            "distance": 166.24086505754101
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/25, 16:58:06",
+            "end_time": "2023/09/25, 16:59:49",
+            "duration": 1.7169668666666666,
+            "distance": 84.8480166255741
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/25, 20:50:29",
+            "end_time": "2023/09/25, 20:57:16",
+            "duration": 6.783733333333333,
+            "distance": 480.24508809535666
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/25, 23:23:34",
+            "end_time": "2023/09/25, 23:38:13",
+            "duration": 14.646783333333333,
+            "distance": 912.4272983484992
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2023/09/29, 15:40:26",
+            "end_time": "2023/09/29, 16:05:17",
+            "duration": 24.83948333333333,
+            "distance": 1446.39794921875
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/07, 08:55:16",
+            "end_time": "2024/05/07, 08:57:12",
+            "duration": 1.9482618,
+            "distance": 1607.7687160801295
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/07, 09:27:32",
+            "end_time": "2024/05/07, 09:28:56",
+            "duration": 1.4079758666666666,
+            "distance": 96.86803122478865
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/07, 17:20:25",
+            "end_time": "2024/05/07, 17:23:08",
+            "duration": 2.7214666666666667,
+            "distance": 161.20427478257307
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/08, 11:04:43",
+            "end_time": "2024/05/08, 11:08:43",
+            "duration": 4.0017677,
+            "distance": 246.05924821416488
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/08, 14:43:23",
+            "end_time": "2024/05/08, 14:44:56",
+            "duration": 1.5499373,
+            "distance": 69.99961371609864
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/08, 16:05:17",
+            "end_time": "2024/05/08, 16:06:21",
+            "duration": 1.0579588833333333,
+            "distance": 91.99073830817895
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/08, 16:11:25",
+            "end_time": "2024/05/08, 16:13:46",
+            "duration": 2.3442993000000003,
+            "distance": 104.64588717154139
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/09, 06:35:54",
+            "end_time": "2024/05/09, 06:36:40",
+            "duration": 0.7625138833333334,
+            "distance": 54.522948846834
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/10, 12:22:26",
+            "end_time": "2024/05/10, 12:29:36",
+            "duration": 7.173993516666667,
+            "distance": 486.3884108743731
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/10, 12:34:13",
+            "end_time": "2024/05/10, 12:37:00",
+            "duration": 2.783357,
+            "distance": 261.61471792885345
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/10, 14:07:46",
+            "end_time": "2024/05/10, 14:09:11",
+            "duration": 1.4120736333333332,
+            "distance": 84.2474887584003
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/10, 15:52:37",
+            "end_time": "2024/05/10, 15:55:46",
+            "duration": 3.1485427666666665,
+            "distance": 168.28189964072197
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/10, 17:15:00",
+            "end_time": "2024/05/10, 17:16:20",
+            "duration": 1.3359847500000002,
+            "distance": 194.4433714336073
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/11, 07:55:00",
+            "end_time": "2024/05/11, 07:59:15",
+            "duration": 4.25055,
+            "distance": 226.9684444734107
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/11, 09:36:05",
+            "end_time": "2024/05/11, 09:37:17",
+            "duration": 1.1897699333333334,
+            "distance": 82.01974940472164
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/12, 13:18:35",
+            "end_time": "2024/05/12, 13:34:56",
+            "duration": 16.3390083,
+            "distance": 992.7217945192169
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/12, 20:48:52",
+            "end_time": "2024/05/12, 21:01:23",
+            "duration": 12.516623816666668,
+            "distance": 653.7760671698644
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/13, 07:12:12",
+            "end_time": "2024/05/13, 07:13:30",
+            "duration": 1.3033209666666667,
+            "distance": 55.85827761183628
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/15, 16:47:32",
+            "end_time": "2024/05/15, 16:48:40",
+            "duration": 1.1406591166666666,
+            "distance": 115.95895605495127
+        },
+        {
+            "activity": "Walking",
+            "start_time": "2024/05/17, 06:36:42",
+            "end_time": "2024/05/17, 06:37:25",
+            "duration": 0.7113999999999999,
+            "distance": 66.52423468713096
+        }
+    ],
+    "Kayaking": [
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/01, 13:34:10",
+            "end_time": "2023/08/01, 14:04:15",
+            "duration": 30.082316666666667,
+            "distance": 2777.467794193042
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/02, 15:43:48",
+            "end_time": "2023/08/02, 16:12:46",
+            "duration": 28.967283333333334,
+            "distance": 2290.6185397715344
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/02, 16:28:40",
+            "end_time": "2023/08/02, 16:31:50",
+            "duration": 3.1623333333333337,
+            "distance": 411.6408027094739
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/02, 16:48:17",
+            "end_time": "2023/08/02, 17:04:45",
+            "duration": 16.465116666666667,
+            "distance": 1614.7358323986246
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/10, 17:07:38",
+            "end_time": "2023/08/10, 18:00:00",
+            "duration": 52.36346666666667,
+            "distance": 5592.260079595399
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/22, 17:46:21",
+            "end_time": "2023/08/22, 17:46:26",
+            "duration": 0.08631666666666667,
+            "distance": 0.0
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/22, 17:48:23",
+            "end_time": "2023/08/22, 19:08:38",
+            "duration": 80.24538333333334,
+            "distance": 5092.893943939594
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/08/30, 19:11:37",
+            "end_time": "2023/08/31, 17:01:45",
+            "duration": 1310.1428333333336,
+            "distance": 81674.98794942455
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/09/11, 17:30:34",
+            "end_time": "2023/09/11, 18:39:34",
+            "duration": 69.00841666666666,
+            "distance": 4914.783133462095
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2023/09/25, 18:18:13",
+            "end_time": "2023/09/25, 18:53:15",
+            "duration": 35.038183333333336,
+            "distance": 3245.840716744546
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/01/28, 23:52:11",
+            "end_time": "2024/01/29, 10:07:58",
+            "duration": 615.7712833333334,
+            "distance": 0.0
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/05/07, 09:42:06",
+            "end_time": "2024/05/07, 09:42:09",
+            "duration": 0.03668333333333333,
+            "distance": 0.0
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/05/27, 18:07:07",
+            "end_time": "2024/05/27, 19:14:33",
+            "duration": 67.43383333333334,
+            "distance": 5335.842618039878
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/06/08, 09:41:54",
+            "end_time": "2024/06/08, 10:15:50",
+            "duration": 33.9297,
+            "distance": 1613.9154765565409
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/06/08, 10:22:53",
+            "end_time": "2024/06/08, 10:59:24",
+            "duration": 36.5285,
+            "distance": 33.19060745794005
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/07/11, 17:22:41",
+            "end_time": "2024/07/11, 17:55:22",
+            "duration": 32.6727,
+            "distance": 3226.655995374148
+        },
+        {
+            "activity": "Kayaking",
+            "start_time": "2024/07/11, 18:16:00",
+            "end_time": "2024/07/11, 18:51:08",
+            "duration": 35.13588333333333,
+            "distance": 3224.3067542793833
+        }
+    ],
+    "Still (not moving)": [
+        {
+            "activity": "Still (not moving)",
+            "start_time": "2023/08/02, 16:12:46",
+            "end_time": "2023/08/02, 16:28:40",
+            "duration": 15.90415,
+            "distance": 361.88003883058184
+        },
+        {
+            "activity": "Still (not moving)",
+            "start_time": "2023/08/02, 16:31:50",
+            "end_time": "2023/08/02, 16:48:17",
+            "duration": 16.446033333333332,
+            "distance": 266.64195945318875
+        },
+        {
+            "activity": "Still (not moving)",
+            "start_time": "2023/08/22, 17:46:26",
+            "end_time": "2023/08/22, 17:48:23",
+            "duration": 1.9493,
+            "distance": 0.0
+        },
+        {
+            "activity": "Still (not moving)",
+            "start_time": "2024/05/07, 09:42:09",
+            "end_time": "2024/05/07, 09:42:11",
+            "duration": 0.040799999999999996,
+            "distance": 0.0
+        },
+        {
+            "activity": "Still (not moving)",
+            "start_time": "2024/06/08, 10:15:50",
+            "end_time": "2024/06/08, 10:22:53",
+            "duration": 7.043683333333333,
+            "distance": 0.0
+        },
+        {
+            "activity": "Still (not moving)",
+            "start_time": "2024/07/11, 17:55:22",
+            "end_time": "2024/07/11, 18:16:00",
+            "duration": 20.643183333333333,
+            "distance": 0.0
+        }
+    ],
+    "Stair-Climbing Machine": [
+        {
+            "activity": "Stair-Climbing Machine",
+            "start_time": "2023/08/14, 11:14:12",
+            "end_time": "2023/08/14, 11:21:01",
+            "duration": 6.822866666666667,
+            "distance": 337.1183368028526
+        }
+    ],
+    "Swimming": [
+        {
+            "activity": "Swimming",
+            "start_time": "2023/09/13, 17:06:32",
+            "end_time": "2023/09/13, 17:51:51",
+            "duration": 45.3192,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/09/20, 17:04:09",
+            "end_time": "2023/09/20, 17:48:04",
+            "duration": 43.91363333333334,
+            "distance": 1000.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/09/27, 16:57:34",
+            "end_time": "2023/09/27, 17:55:10",
+            "duration": 57.599466666666665,
+            "distance": 1025.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/10/04, 16:48:02",
+            "end_time": "2023/10/04, 17:29:14",
+            "duration": 41.20936666666667,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/10/11, 16:52:03",
+            "end_time": "2023/10/11, 17:41:01",
+            "duration": 48.964166666666664,
+            "distance": 1075.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/10/28, 11:12:42",
+            "end_time": "2023/10/28, 11:46:16",
+            "duration": 33.57233333333333,
+            "distance": 1000.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/11/08, 16:46:36",
+            "end_time": "2023/11/08, 17:36:25",
+            "duration": 49.81515,
+            "distance": 1025.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/11/15, 16:51:14",
+            "end_time": "2023/11/15, 17:28:06",
+            "duration": 36.871316666666665,
+            "distance": 1075.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/11/22, 16:41:21",
+            "end_time": "2023/11/22, 17:25:37",
+            "duration": 44.2757,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/11/29, 16:45:48",
+            "end_time": "2023/11/29, 17:33:56",
+            "duration": 48.12768333333334,
+            "distance": 1125.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/12/06, 17:00:25",
+            "end_time": "2023/12/06, 17:55:07",
+            "duration": 54.702933333333334,
+            "distance": 1075.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/12/16, 13:41:19",
+            "end_time": "2023/12/16, 14:42:29",
+            "duration": 61.17081666666666,
+            "distance": 1000.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/12/17, 14:41:02",
+            "end_time": "2023/12/17, 16:30:20",
+            "duration": 109.29721666666666,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2023/12/17, 19:53:40",
+            "end_time": "2023/12/17, 20:18:48",
+            "duration": 25.131866666666667,
+            "distance": 0.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/01/04, 13:22:36",
+            "end_time": "2024/01/04, 13:59:36",
+            "duration": 37.01616666666666,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/01/10, 16:45:25",
+            "end_time": "2024/01/10, 17:37:03",
+            "duration": 51.642066666666665,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/01/17, 16:57:32",
+            "end_time": "2024/01/17, 17:43:11",
+            "duration": 45.66081666666666,
+            "distance": 1150.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/01/24, 17:06:40",
+            "end_time": "2024/01/24, 20:12:10",
+            "duration": 185.50191666666666,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/01/31, 16:57:34",
+            "end_time": "2024/01/31, 17:40:10",
+            "duration": 42.590466666666664,
+            "distance": 1125.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/02/07, 16:40:22",
+            "end_time": "2024/02/07, 20:55:16",
+            "duration": 254.89525,
+            "distance": 1075.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/02/14, 16:42:46",
+            "end_time": "2024/02/14, 18:01:52",
+            "duration": 79.09656666666666,
+            "distance": 1225.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/02/21, 16:43:06",
+            "end_time": "2024/02/21, 17:35:11",
+            "duration": 52.0918,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/02/28, 17:00:06",
+            "end_time": "2024/02/28, 17:42:57",
+            "duration": 42.8594,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/04/10, 16:47:42",
+            "end_time": "2024/04/10, 17:52:44",
+            "duration": 65.03093333333334,
+            "distance": 1025.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/04/17, 17:02:03",
+            "end_time": "2024/04/17, 19:48:46",
+            "duration": 166.72498333333334,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/04/24, 16:37:38",
+            "end_time": "2024/04/24, 17:45:37",
+            "duration": 67.99593333333333,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/05/08, 16:55:24",
+            "end_time": "2024/05/08, 20:54:48",
+            "duration": 239.39385,
+            "distance": 1025.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/05/15, 17:05:20",
+            "end_time": "2024/05/15, 20:36:57",
+            "duration": 211.61841666666666,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/05/22, 17:04:52",
+            "end_time": "2024/05/23, 05:45:54",
+            "duration": 761.0329833333333,
+            "distance": 625.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/05/29, 16:40:50",
+            "end_time": "2024/05/29, 18:32:22",
+            "duration": 111.5351,
+            "distance": 1125.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/06/15, 13:59:01",
+            "end_time": "2024/06/15, 14:02:24",
+            "duration": 3.3714500000000003,
+            "distance": 0.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/07/18, 07:28:20",
+            "end_time": "2024/07/18, 08:09:29",
+            "duration": 41.15213333333334,
+            "distance": 1050.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/07/21, 14:23:36",
+            "end_time": "2024/07/21, 15:24:46",
+            "duration": 61.166799999999995,
+            "distance": 1100.0
+        },
+        {
+            "activity": "Swimming",
+            "start_time": "2024/07/23, 07:11:39",
+            "end_time": "2024/07/23, 10:14:30",
+            "duration": 182.84158333333335,
+            "distance": 1125.0
+        }
+    ],
+    "Running (Treadmill)": [
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/10, 08:09:00",
+            "end_time": "2023/10/10, 08:49:36",
+            "duration": 40.59851666666667,
+            "distance": 3870.19189453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/11, 08:31:49",
+            "end_time": "2023/10/11, 09:14:54",
+            "duration": 43.077083333333334,
+            "distance": 4030.212890625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/13, 08:37:28",
+            "end_time": "2023/10/13, 09:12:37",
+            "duration": 35.14585,
+            "distance": 3881.19091796875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/17, 08:00:07",
+            "end_time": "2023/10/17, 08:35:49",
+            "duration": 35.691633333333336,
+            "distance": 3552.909912109375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/18, 08:28:08",
+            "end_time": "2023/10/18, 08:59:28",
+            "duration": 31.32453333333333,
+            "distance": 3320.94091796875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/24, 08:33:07",
+            "end_time": "2023/10/24, 09:03:33",
+            "duration": 30.42888333333333,
+            "distance": 3340.925048828125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/10/25, 08:19:50",
+            "end_time": "2023/10/25, 12:20:43",
+            "duration": 240.88498333333334,
+            "distance": 0.0
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/05, 09:48:32",
+            "end_time": "2023/11/05, 10:23:57",
+            "duration": 35.423966666666665,
+            "distance": 3000.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/07, 13:19:17",
+            "end_time": "2023/11/07, 13:52:13",
+            "duration": 32.92966666666667,
+            "distance": 3000.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/08, 08:18:26",
+            "end_time": "2023/11/08, 09:06:41",
+            "duration": 48.24176666666666,
+            "distance": 3580.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/10, 08:37:53",
+            "end_time": "2023/11/10, 09:08:31",
+            "duration": 30.634416666666667,
+            "distance": 3216.406005859375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/16, 08:09:09",
+            "end_time": "2023/11/16, 08:50:51",
+            "duration": 41.69988333333333,
+            "distance": 3010.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/17, 09:04:30",
+            "end_time": "2023/11/17, 09:35:03",
+            "duration": 30.544033333333335,
+            "distance": 2985.303955078125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/18, 16:35:16",
+            "end_time": "2023/11/18, 17:05:40",
+            "duration": 30.41146666666667,
+            "distance": 3310.85107421875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/24, 05:48:55",
+            "end_time": "2023/11/24, 05:54:28",
+            "duration": 5.547066666666667,
+            "distance": 154.21299743652344
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/25, 06:49:41",
+            "end_time": "2023/11/25, 07:28:58",
+            "duration": 39.27375,
+            "distance": 3000.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/26, 06:58:33",
+            "end_time": "2023/11/26, 07:41:46",
+            "duration": 43.22266666666667,
+            "distance": 3510.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/27, 08:04:29",
+            "end_time": "2023/11/27, 08:39:45",
+            "duration": 35.25521666666667,
+            "distance": 3228.844970703125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/28, 05:50:26",
+            "end_time": "2023/11/28, 06:22:44",
+            "duration": 32.291199999999996,
+            "distance": 3230.887939453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/29, 05:38:50",
+            "end_time": "2023/11/29, 06:11:27",
+            "duration": 32.6201,
+            "distance": 3080.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/11/30, 05:16:04",
+            "end_time": "2023/11/30, 05:48:02",
+            "duration": 31.978233333333332,
+            "distance": 3183.714111328125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/01, 05:38:50",
+            "end_time": "2023/12/01, 06:15:13",
+            "duration": 36.38725,
+            "distance": 3202.175048828125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/02, 08:27:11",
+            "end_time": "2023/12/02, 08:58:36",
+            "duration": 31.413183333333333,
+            "distance": 3260.277099609375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/03, 06:41:19",
+            "end_time": "2023/12/03, 07:11:32",
+            "duration": 30.214683333333333,
+            "distance": 3240.0022197710396
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/04, 06:21:43",
+            "end_time": "2023/12/04, 06:52:08",
+            "duration": 30.406883333333333,
+            "distance": 3000.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/05, 06:22:35",
+            "end_time": "2023/12/05, 06:52:58",
+            "duration": 30.389200000000002,
+            "distance": 3258.845947265625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/06, 06:20:01",
+            "end_time": "2023/12/06, 06:50:20",
+            "duration": 30.31208333333333,
+            "distance": 3186.8330078125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/07, 06:10:36",
+            "end_time": "2023/12/07, 06:40:55",
+            "duration": 30.330116666666665,
+            "distance": 3090.02099609375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/08, 07:13:38",
+            "end_time": "2023/12/08, 07:43:55",
+            "duration": 30.29205,
+            "distance": 3245.885009765625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/09, 07:32:36",
+            "end_time": "2023/12/09, 08:02:51",
+            "duration": 30.253316666666667,
+            "distance": 3000.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/10, 08:32:22",
+            "end_time": "2023/12/10, 09:02:29",
+            "duration": 30.1189,
+            "distance": 3166.282958984375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/11, 06:27:58",
+            "end_time": "2023/12/11, 06:58:16",
+            "duration": 30.314016666666664,
+            "distance": 3280.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/12, 08:16:53",
+            "end_time": "2023/12/12, 08:47:00",
+            "duration": 30.114733333333334,
+            "distance": 3120.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/13, 05:55:21",
+            "end_time": "2023/12/13, 06:25:46",
+            "duration": 30.43,
+            "distance": 3240.214111328125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/14, 17:16:46",
+            "end_time": "2023/12/14, 17:46:54",
+            "duration": 30.130983333333333,
+            "distance": 3168.10498046875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/15, 06:51:57",
+            "end_time": "2023/12/15, 07:22:04",
+            "duration": 30.120549999999998,
+            "distance": 3160.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/16, 14:57:34",
+            "end_time": "2023/12/16, 15:27:48",
+            "duration": 30.235083333333332,
+            "distance": 3141.698974609375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/17, 07:52:15",
+            "end_time": "2023/12/17, 08:22:34",
+            "duration": 30.32205,
+            "distance": 3176.47607421875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/18, 14:45:13",
+            "end_time": "2023/12/18, 15:15:21",
+            "duration": 30.136033333333334,
+            "distance": 3122.596923828125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/19, 08:34:04",
+            "end_time": "2023/12/19, 09:04:25",
+            "duration": 30.340466666666668,
+            "distance": 3134.31689453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/20, 06:23:37",
+            "end_time": "2023/12/20, 06:54:02",
+            "duration": 30.410083333333333,
+            "distance": 3061.907958984375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/21, 06:11:43",
+            "end_time": "2023/12/21, 06:42:02",
+            "duration": 30.31405,
+            "distance": 3221.721923828125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/22, 16:42:50",
+            "end_time": "2023/12/22, 17:13:09",
+            "duration": 30.315766666666665,
+            "distance": 3230.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/23, 18:36:40",
+            "end_time": "2023/12/23, 18:37:21",
+            "duration": 0.6866166666666668,
+            "distance": 39.55799865722656
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/23, 18:37:33",
+            "end_time": "2023/12/23, 19:07:52",
+            "duration": 30.311766666666664,
+            "distance": 3150.56201171875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/24, 08:52:04",
+            "end_time": "2023/12/24, 09:22:09",
+            "duration": 30.090899999999998,
+            "distance": 3204.18701171875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/25, 08:04:32",
+            "end_time": "2023/12/25, 08:34:52",
+            "duration": 30.322866666666666,
+            "distance": 3190.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/26, 15:49:59",
+            "end_time": "2023/12/26, 16:20:21",
+            "duration": 30.357533333333333,
+            "distance": 3200.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2023/12/27, 08:39:18",
+            "end_time": "2023/12/27, 09:09:37",
+            "duration": 30.325066666666665,
+            "distance": 3157.821044921875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/03, 07:53:29",
+            "end_time": "2024/01/03, 08:23:51",
+            "duration": 30.364916666666666,
+            "distance": 3665.570068359375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/04, 07:13:46",
+            "end_time": "2024/01/04, 07:44:06",
+            "duration": 30.3396,
+            "distance": 3654.488037109375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/05, 05:34:45",
+            "end_time": "2024/01/05, 06:05:05",
+            "duration": 30.329183333333333,
+            "distance": 3638.375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/06, 04:26:04",
+            "end_time": "2024/01/06, 04:56:24",
+            "duration": 30.331200000000003,
+            "distance": 3595.19091796875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/08, 23:52:38",
+            "end_time": "2024/01/09, 00:07:56",
+            "duration": 15.301983333333334,
+            "distance": 0.0020000000949949026
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/09, 17:25:34",
+            "end_time": "2024/01/09, 17:55:51",
+            "duration": 30.28468333333333,
+            "distance": 3595.337890625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/10, 05:42:40",
+            "end_time": "2024/01/10, 06:13:01",
+            "duration": 30.357183333333335,
+            "distance": 3655.967041015625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/11, 05:50:34",
+            "end_time": "2024/01/11, 06:20:37",
+            "duration": 30.056083333333333,
+            "distance": 3627.39404296875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/12, 05:41:37",
+            "end_time": "2024/01/12, 06:11:57",
+            "duration": 30.342499999999998,
+            "distance": 3693.5439453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/15, 11:22:47",
+            "end_time": "2024/01/15, 11:52:52",
+            "duration": 30.083383333333334,
+            "distance": 3537.18310546875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/16, 05:54:58",
+            "end_time": "2024/01/16, 06:31:04",
+            "duration": 36.09676666666667,
+            "distance": 3820.85498046875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/17, 13:27:38",
+            "end_time": "2024/01/17, 13:57:41",
+            "duration": 30.05065,
+            "distance": 3601.01904296875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/18, 15:40:40",
+            "end_time": "2024/01/18, 16:10:59",
+            "duration": 30.325516666666665,
+            "distance": 3100.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/19, 08:13:32",
+            "end_time": "2024/01/19, 08:43:52",
+            "duration": 30.337,
+            "distance": 3632.050048828125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/20, 10:45:19",
+            "end_time": "2024/01/20, 11:25:29",
+            "duration": 40.16543333333333,
+            "distance": 3215.320068359375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/22, 14:18:50",
+            "end_time": "2024/01/22, 14:49:09",
+            "duration": 30.304916666666667,
+            "distance": 3549.89990234375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/23, 05:39:39",
+            "end_time": "2024/01/23, 06:09:58",
+            "duration": 30.31445,
+            "distance": 3678.0458984375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/25, 17:26:23",
+            "end_time": "2024/01/25, 17:56:43",
+            "duration": 30.326883333333335,
+            "distance": 3596.425048828125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/26, 10:47:59",
+            "end_time": "2024/01/26, 11:19:25",
+            "duration": 31.433316666666666,
+            "distance": 3200.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/27, 16:38:00",
+            "end_time": "2024/01/27, 17:08:22",
+            "duration": 30.363883333333334,
+            "distance": 3100.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/28, 17:41:37",
+            "end_time": "2024/01/28, 18:11:57",
+            "duration": 30.33165,
+            "distance": 3652.785888671875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/29, 16:49:42",
+            "end_time": "2024/01/29, 17:19:47",
+            "duration": 30.08065,
+            "distance": 3575.876953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/30, 07:24:01",
+            "end_time": "2024/01/30, 07:54:19",
+            "duration": 30.296666666666667,
+            "distance": 3636.068115234375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/01/31, 05:32:34",
+            "end_time": "2024/01/31, 06:02:52",
+            "duration": 30.303733333333334,
+            "distance": 3614.012939453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/01, 16:59:52",
+            "end_time": "2024/02/01, 17:30:11",
+            "duration": 30.314133333333334,
+            "distance": 3586.010986328125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/02, 05:34:44",
+            "end_time": "2024/02/02, 06:05:03",
+            "duration": 30.310716666666668,
+            "distance": 3580.2958984375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/03, 17:50:08",
+            "end_time": "2024/02/03, 18:20:19",
+            "duration": 30.18746666666667,
+            "distance": 3637.702880859375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/04, 07:34:31",
+            "end_time": "2024/02/04, 07:34:43",
+            "duration": 0.19390000000000002,
+            "distance": 8.595000267028809
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/04, 07:34:56",
+            "end_time": "2024/02/04, 08:05:16",
+            "duration": 30.3281,
+            "distance": 3628.22509765625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/04, 17:13:41",
+            "end_time": "2024/02/04, 17:34:12",
+            "duration": 20.50861666666667,
+            "distance": 359.56500244140625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/05, 16:20:05",
+            "end_time": "2024/02/05, 16:50:25",
+            "duration": 30.32615,
+            "distance": 3655.666015625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/07, 08:27:31",
+            "end_time": "2024/02/07, 08:57:50",
+            "duration": 30.319233333333333,
+            "distance": 3642.248046875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/08, 06:10:24",
+            "end_time": "2024/02/08, 06:40:42",
+            "duration": 30.298183333333334,
+            "distance": 3655.27490234375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/09, 17:36:40",
+            "end_time": "2024/02/09, 18:06:58",
+            "duration": 30.31158333333333,
+            "distance": 3680.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/12, 13:48:38",
+            "end_time": "2024/02/12, 14:18:58",
+            "duration": 30.326216666666667,
+            "distance": 3675.60498046875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/13, 06:14:40",
+            "end_time": "2024/02/13, 06:45:01",
+            "duration": 30.354049999999997,
+            "distance": 3730.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/14, 05:30:03",
+            "end_time": "2024/02/14, 06:17:04",
+            "duration": 47.02395,
+            "distance": 3895.251953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/15, 05:33:09",
+            "end_time": "2024/02/15, 06:03:27",
+            "duration": 30.303966666666668,
+            "distance": 3683.7099609375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/16, 05:59:57",
+            "end_time": "2024/02/16, 06:30:15",
+            "duration": 30.2994,
+            "distance": 3686.673095703125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/17, 07:36:27",
+            "end_time": "2024/02/17, 08:06:44",
+            "duration": 30.2828,
+            "distance": 3729.659912109375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/18, 07:04:47",
+            "end_time": "2024/02/18, 07:35:04",
+            "duration": 30.2773,
+            "distance": 3711.98388671875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/20, 11:16:31",
+            "end_time": "2024/02/20, 11:47:03",
+            "duration": 30.530266666666666,
+            "distance": 3100.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/21, 08:26:06",
+            "end_time": "2024/02/21, 08:56:21",
+            "duration": 30.2566,
+            "distance": 3677.125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/22, 14:13:18",
+            "end_time": "2024/02/22, 14:43:36",
+            "duration": 30.294466666666665,
+            "distance": 3663.827880859375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/23, 08:21:56",
+            "end_time": "2024/02/23, 08:52:15",
+            "duration": 30.30933333333333,
+            "distance": 3638.93701171875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/24, 16:21:02",
+            "end_time": "2024/02/24, 16:51:22",
+            "duration": 30.337049999999998,
+            "distance": 3736.428955078125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/25, 07:50:58",
+            "end_time": "2024/02/25, 08:21:07",
+            "duration": 30.138433333333335,
+            "distance": 3642.866943359375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/02/26, 06:21:40",
+            "end_time": "2024/02/26, 06:36:39",
+            "duration": 14.979266666666666,
+            "distance": 1646.1400146484375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/03/01, 13:41:13",
+            "end_time": "2024/03/01, 14:11:32",
+            "duration": 30.322016666666666,
+            "distance": 3631.39404296875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/05, 05:44:51",
+            "end_time": "2024/04/05, 06:15:11",
+            "duration": 30.32295,
+            "distance": 3719.875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/09, 06:21:30",
+            "end_time": "2024/04/09, 06:51:37",
+            "duration": 30.121316666666665,
+            "distance": 3698.52587890625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/10, 06:14:59",
+            "end_time": "2024/04/10, 06:45:05",
+            "duration": 30.101466666666667,
+            "distance": 3658.0791015625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/11, 05:10:09",
+            "end_time": "2024/04/11, 05:40:41",
+            "duration": 30.536166666666666,
+            "distance": 3681.117919921875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/12, 05:58:09",
+            "end_time": "2024/04/12, 06:28:28",
+            "duration": 30.30408333333333,
+            "distance": 3670.611083984375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/13, 15:44:09",
+            "end_time": "2024/04/13, 16:08:03",
+            "duration": 23.887183333333333,
+            "distance": 26.69700050354004
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/16, 15:33:28",
+            "end_time": "2024/04/16, 16:03:48",
+            "duration": 30.337783333333334,
+            "distance": 3664.948974609375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/17, 08:06:05",
+            "end_time": "2024/04/17, 08:36:25",
+            "duration": 30.335066666666666,
+            "distance": 3673.841064453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/18, 05:59:35",
+            "end_time": "2024/04/18, 06:07:57",
+            "duration": 8.359983333333334,
+            "distance": 988.427001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/19, 06:06:03",
+            "end_time": "2024/04/19, 06:36:22",
+            "duration": 30.315166666666666,
+            "distance": 3695.821044921875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/20, 06:55:41",
+            "end_time": "2024/04/20, 07:25:54",
+            "duration": 30.2168,
+            "distance": 3663.26904296875
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/21, 06:11:47",
+            "end_time": "2024/04/21, 06:41:56",
+            "duration": 30.15288333333333,
+            "distance": 3647.676025390625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/22, 05:56:53",
+            "end_time": "2024/04/22, 06:27:11",
+            "duration": 30.294016666666668,
+            "distance": 3675.055908203125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/23, 05:22:29",
+            "end_time": "2024/04/23, 05:52:48",
+            "duration": 30.328916666666665,
+            "distance": 3695.760986328125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/24, 05:10:47",
+            "end_time": "2024/04/24, 05:41:06",
+            "duration": 30.319399999999998,
+            "distance": 3705.527099609375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/25, 04:06:55",
+            "end_time": "2024/04/25, 04:37:14",
+            "duration": 30.3162,
+            "distance": 3720.741943359375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/04/30, 05:32:19",
+            "end_time": "2024/04/30, 06:02:29",
+            "duration": 30.15423333333333,
+            "distance": 3684.409912109375
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/05/06, 06:53:39",
+            "end_time": "2024/05/06, 07:24:08",
+            "duration": 30.491666666666667,
+            "distance": 3741.9189453125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/05/07, 08:57:12",
+            "end_time": "2024/05/07, 09:27:32",
+            "duration": 30.32271666666667,
+            "distance": 5325.353670855681
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/05/09, 06:05:35",
+            "end_time": "2024/05/09, 06:35:54",
+            "duration": 30.32248333333333,
+            "distance": 3756.603394349844
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/05/17, 06:06:25",
+            "end_time": "2024/05/17, 06:36:42",
+            "duration": 30.292166666666667,
+            "distance": 3715.170066228019
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/05/19, 07:43:25",
+            "end_time": "2024/05/19, 08:13:44",
+            "duration": 30.324216666666665,
+            "distance": 3710.260009765625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/04, 05:19:11",
+            "end_time": "2024/06/04, 05:49:20",
+            "duration": 30.144433333333332,
+            "distance": 3100.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/06, 05:39:07",
+            "end_time": "2024/06/06, 06:09:26",
+            "duration": 30.316816666666668,
+            "distance": 3200.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/07, 13:31:56",
+            "end_time": "2024/06/07, 14:06:38",
+            "duration": 34.69486666666667,
+            "distance": 3888.6640625
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/14, 05:49:04",
+            "end_time": "2024/06/14, 06:19:07",
+            "duration": 30.03825,
+            "distance": 3651.428955078125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/15, 14:02:30",
+            "end_time": "2024/06/15, 14:28:58",
+            "duration": 26.46626666666667,
+            "distance": 3260.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/16, 08:06:47",
+            "end_time": "2024/06/16, 08:36:50",
+            "duration": 30.05571666666667,
+            "distance": 3677.882080078125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/18, 05:24:23",
+            "end_time": "2024/06/18, 05:54:27",
+            "duration": 30.062716666666667,
+            "distance": 3200.001953125
+        },
+        {
+            "activity": "Running (Treadmill)",
+            "start_time": "2024/06/20, 10:47:16",
+            "end_time": "2024/06/20, 11:17:18",
+            "duration": 30.040116666666666,
+            "distance": 3613.803955078125
+        }
+    ],
+    "Hiking": [
+        {
+            "activity": "Hiking",
+            "start_time": "2023/12/03, 09:24:03",
+            "end_time": "2023/12/03, 13:07:05",
+            "duration": 223.03491666666665,
+            "distance": 11013.140625
+        },
+        {
+            "activity": "Hiking",
+            "start_time": "2024/04/26, 13:16:00",
+            "end_time": "2024/04/26, 16:36:08",
+            "duration": 200.1344,
+            "distance": 8624.283203125
+        },
+        {
+            "activity": "Hiking",
+            "start_time": "2024/04/27, 11:59:37",
+            "end_time": "2024/04/27, 15:55:11",
+            "duration": 235.57568333333333,
+            "distance": 13873.6552734375
+        }
+    ],
+    "Inline Skating": [
+        {
+            "activity": "Inline Skating",
+            "start_time": "2024/02/19, 09:02:33",
+            "end_time": "2024/02/19, 09:29:06",
+            "duration": 26.537399999999998,
+            "distance": 4260.50390625
+        },
+        {
+            "activity": "Inline Skating",
+            "start_time": "2024/02/19, 10:46:16",
+            "end_time": "2024/02/19, 11:15:35",
+            "duration": 29.308716666666665,
+            "distance": 4681.456526479938
+        }
+    ]
+}

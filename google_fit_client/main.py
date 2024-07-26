@@ -6,10 +6,127 @@ import google.auth.transport.requests
 import google_auth_oauthlib.flow
 import googleapiclient.discovery
 from google.oauth2.credentials import Credentials
-from datetime import datetime, timedelta
+import datetime
+import time
+
+activity_codes = {
+    0: "In Vehicle",
+    1: "Biking",
+    2: "On Foot",
+    3: "Still (not moving)",
+    4: "Unknown",
+    5: "Tilting",
+    6: "Exiting Vehicle",
+    7: "Walking",
+    8: "Running",
+    9: "Aerobics",
+    10: "Badminton",
+    11: "Baseball",
+    12: "Basketball",
+    13: "Biathlon",
+    14: "Handbiking",
+    15: "Mountain Biking",
+    16: "Road Biking",
+    17: "Spinning",
+    18: "Stationary Biking",
+    19: "Utility Biking",
+    20: "Boxing",
+    21: "Calisthenics",
+    22: "Circuit Training",
+    23: "Cricket",
+    24: "Dancing",
+    25: "Elliptical",
+    26: "Fencing",
+    27: "American Football",
+    28: "Australian Football",
+    29: "Soccer",
+    30: "Frisbee",
+    31: "Gardening",
+    32: "Golf",
+    33: "Gymnastics",
+    34: "Handball",
+    35: "Hiking",
+    36: "Hockey",
+    37: "Horseback Riding",
+    38: "Housework",
+    39: "Jumping Rope",
+    40: "Kayaking",
+    41: "Kettlebell Training",
+    42: "Kickboxing",
+    43: "Kitesurfing",
+    44: "Martial Arts",
+    45: "Meditation",
+    46: "Mixed Martial Arts",
+    47: "P90X",
+    48: "Paragliding",
+    49: "Pilates",
+    50: "Polo",
+    51: "Racquetball",
+    52: "Rock Climbing",
+    53: "Rowing",
+    54: "Rowing Machine",
+    55: "Rugby",
+    56: "Jogging",
+    57: "Running on Sand",
+    58: "Running (Treadmill)",
+    59: "Sailing",
+    60: "Scuba Diving",
+    61: "Skateboarding",
+    62: "Skating",
+    63: "Cross Skating",
+    64: "Indoor Skating",
+    65: "Inline Skating",
+    66: "Skiing",
+    67: "Backcountry Skiing",
+    68: "Cross-Country Skiing",
+    69: "Downhill Skiing",
+    70: "Kite Skiing",
+    71: "Roller Skiing",
+    72: "Sledding",
+    73: "Sleeping",
+    74: "Snowboarding",
+    75: "Snowmobile",
+    76: "Snowshoeing",
+    77: "Squash",
+    78: "Stair Climbing",
+    79: "Stair-Climbing Machine",
+    80: "Stand-Up Paddleboarding",
+    81: "Strength Training",
+    82: "Surfing",
+    83: "Swimming",
+    84: "Swimming (Open Water)",
+    85: "Swimming (Pool)",
+    86: "Table Tennis",
+    87: "Team Sports",
+    88: "Tennis",
+    89: "Treadmill (Walking or Running)",
+    90: "Volleyball",
+    91: "Volleyball (Beach)",
+    92: "Volleyball (Indoor)",
+    93: "Wakeboarding",
+    94: "Walking (Fitness)",
+    95: "Nording Walking",
+    96: "Walking (Treadmill)",
+    97: "Waterpolo",
+    98: "Weightlifting",
+    99: "Wheelchair",
+    100: "Windsurfing",
+    101: "Yoga",
+    102: "Zumba",
+    103: "Diving",
+    104: "Ergometer",
+    105: "Ice Skating",
+    106: "Indoor Skating",
+    107: "Curling",
+    108: "Other (Uncategorized)"
+}
 
 # Specify the scopes required
-SCOPES = ['https://www.googleapis.com/auth/fitness.activity.read']
+SCOPES = [
+        'https://www.googleapis.com/auth/fitness.activity.read',
+        'https://www.googleapis.com/auth/fitness.location.read',
+        'https://www.googleapis.com/auth/fitness.body.read'
+]
 
 # Path to the credentials.json file
 CLIENT_SECRETS_FILE = 'credentials.json'
@@ -42,43 +159,71 @@ def authenticate():
 
     return credentials
 
-# Function to get the time in nanoseconds since epoch
-def get_time_ns(days_ago=0):
-    time = datetime.utcnow() - timedelta(days=days_ago)
-    return int(time.timestamp() * 1e9)
+def get_my_activities(service, days=1):
+    now = datetime.datetime.utcnow()
+    start_time = now - datetime.timedelta(days=days)  # Extend to last 30 days
+    dataset_id = f"{int(start_time.timestamp() * 1e9)}-{int(now.timestamp() * 1e9)}"
+
+    data_source = "derived:com.google.activity.segment:com.google.android.gms:merge_activity_segments"
+    request = service.users().dataSources().datasets().get(userId='me', dataSourceId=data_source, datasetId=dataset_id)
+    response = request.execute()
+
+    activities = {}
+    n = 0
+    for point in response.get('point', []):
+        activity_type = point['value'][0]['intVal']
+        activity_name = activity_codes[activity_type]
+        if activity_name not in activities:
+            activities[activity_codes[activity_type]] = []
+        start_time = datetime.datetime.fromtimestamp(int(point['startTimeNanos']) / 1e9)
+        end_time = datetime.datetime.fromtimestamp(int(point['endTimeNanos']) / 1e9)
+        distance = get_distance(service, start_time, end_time)
+        activities[activity_name].append({
+            'activity': activity_name,
+            'start_time': start_time.strftime("%Y/%m/%d, %H:%M:%S"),
+            'end_time': end_time.strftime("%Y/%m/%d, %H:%M:%S"),
+            'duration': (end_time - start_time).total_seconds() / 60.0,
+            'distance': distance
+        })
+        time.sleep(2)
+        n = n + 1
+        print(f'Activities processed: {n}/{len(response.get("point", []))}')
+
+    return activities
+
+def get_distance(service, start_time, end_time):
+    dataset_id = f"{int(start_time.timestamp() * 1e9)}-{int(end_time.timestamp() * 1e9)}"
+    data_source = "derived:com.google.distance.delta:com.google.android.gms:merge_distance_delta"
+    
+    request = service.users().dataSources().datasets().get(userId='me', dataSourceId=data_source, datasetId=dataset_id)
+    response = request.execute()
+
+    total_distance = 0.0
+    for point in response.get('point', []):
+        for value in point['value']:
+            total_distance += value['fpVal']
+
+    return total_distance
 
 def main():
+    days = 365
     # Authenticate and get the API client
     credentials = authenticate()
     service = googleapiclient.discovery.build('fitness', 'v1', credentials=credentials)
+    activities = get_my_activities(service, days)
+    # Specify the file path
+    file_path = 'activities.json'
 
-    # Get the list of data sources for the user
-    data_sources = service.users().dataSources().list(userId='me').execute()
+    # Write the dictionary to the file as JSON
+    with open(file_path, 'w') as json_file:
+        json.dump(activities, json_file, indent=4)
 
-    # Print all data sources for debugging
-    print("Data Sources:")
-    for data_source in data_sources.get('dataSource', []):
-        print(data_source['dataStreamId'])
+    for activity_type in activities:
+        sum_distance = 0
+        for a in activities[activity_type]:
+            sum_distance = sum_distance + a['distance']
+        print(f'{activity_type} {days} {sum_distance / 1000.0} km')
 
-    # Iterate over the data sources to find step count data
-    for data_source in data_sources.get('dataSource', []):
-        if 'derived:com.google.step_count.delta' in data_source['dataStreamId']:
-            # Define the time range for the data set (last 7 days)
-            start_time_ns = get_time_ns(days_ago=7)
-            end_time_ns = get_time_ns()
-            dataset_id = f'{start_time_ns}-{end_time_ns}'
-
-            # Fetch the dataset for the specified data source and time range
-            dataset = service.users().dataSources().datasets().get(
-                userId='me',
-                dataSourceId=data_source['dataStreamId'],
-                datasetId=dataset_id
-            ).execute()
-
-            # Print the step count data
-            for point in dataset.get('point', []):
-                if 'value' in point:
-                    print(f"Steps: {point['value'][0]['intVal']}")
 
 if __name__ == '__main__':
     main()
