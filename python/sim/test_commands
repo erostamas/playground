@@ -1,0 +1,9 @@
+curl -X POST -d '{"type": "sleep", "name": "job2", "options":{"duration":150}}' -H "Content-Type: application/json" localhost:12345/register_job
+
+#run with gunicorn
+cd /home/etamero/repos/dev/python/sim
+gunicorn --bind 0.0.0.0:12345 wsgi:app
+
+#run with buildtin flask server
+cd /home/etamero/repos/dev/python/sim
+python3 ./main.py
